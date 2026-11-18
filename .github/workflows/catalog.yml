@@ -1,8 +1,7 @@
 name: Rebuild GitHub catalog
 
 # Reads the repos in web/gh/data/repos.txt, takes each one's latest public GitHub
-# Release, and rewrites web/gh/data/apps.json. Then copies the same file into
-# web/kosha/data/apps.json so both pages show the same thing.
+# Release, and rewrites web/gh/data/apps.json.
 
 on:
   schedule:
@@ -60,16 +59,13 @@ jobs:
           print('catalog OK:', doc['count'], 'apps')
           PY
 
-      - name: Mirror into kosha
-        run: cp web/gh/data/apps.json web/kosha/data/apps.json
-
       - name: Commit if changed
         run: |
-          if git diff --quiet -- web/gh/data/apps.json web/kosha/data/apps.json; then
+          if git diff --quiet -- web/gh/data/apps.json; then
             echo "No change."; exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add web/gh/data/apps.json web/kosha/data/apps.json
+          git add web/gh/data/apps.json
           git commit -m "chore: refresh the GitHub catalog"
           git push

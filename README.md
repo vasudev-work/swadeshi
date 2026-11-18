@@ -8,8 +8,7 @@ swadeshi/
 ├── android/            the Android app            (native Java, 1,489-app Play catalogue)
 ├── web/
 │   ├── play/           web page for the Play catalogue
-│   ├── gh/             engine + page for the GitHub Releases catalogue
-│   └── kosha/          second face on that same data, Nijatva look
+│   └── gh/             engine + page for the GitHub Releases catalogue
 ├── data/               the 1,489-app list as CSV / JSON / per-category files
 └── .github/workflows/  one workflow, rebuilds the catalog daily
 ```
@@ -20,7 +19,6 @@ swadeshi/
 |---|---|---|
 | `/web/play/` | Which Indian apps exist on the **Play Store**? | 1,489 |
 | `/web/gh/` | Which Indian apps ship a build in a **public GitHub Release**? | 201 |
-| `/web/kosha/` | Same GitHub data, different look, with platform picker | 201 |
 
 `web/play` and `web/gh` share **zero apps by name**. They are not duplicates.
 
@@ -34,8 +32,6 @@ web/gh/scripts/build_catalog.py    GitHub API: repo, latest release, assets, ico
         |
         v
 web/gh/data/apps.json          validated against web/gh/schema/app.schema.json
-        |
-        +--> web/kosha/data/apps.json   copied by the same workflow
 ```
 
 A workflow runs daily at 03:17 UTC, on any change to the list or the script, and on
@@ -50,9 +46,11 @@ which is the Play catalogue. Build with the usual
 
 ## Where things came from
 
-This repo merges what used to be five separate repositories. The old ones still exist and
+Kosha is deliberately **not** here. It lists apps from anywhere, including non-Indian
+projects, so it is a different product with a different rule. It stays in its own repo.
+
+This repo merges what used to be four separate repositories. The old ones still exist and
 still serve their Pages sites; nothing broke. Treat this one as the source of truth from
 now on.
 
 MIT.
-
