@@ -1,0 +1,75 @@
+name: Rebuild GitHub catalog
+
+# Reads the repos in web/gh/data/repos.txt, takes each one's latest public GitHub
+# Release, and rewrites web/gh/data/apps.json. Then copies the same file into
+# web/kosha/data/apps.json so both pages show the same thing.
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'web/gh/data/repos.txt'
+      - 'web/gh/data/overrides.json'
+      - 'web/gh/scripts/build_catalog.py'
+      - '.github/workflows/catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild
+        working-directory: web/gh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_catalog.py
+
+      - name: Check against the schema
+        run: |
+          python3 -m pip install --quiet jsonschema
+          python3 - <<'PY'
+          import json, sys
+          from jsonschema import Draft202012Validator
+          schema = json.load(open('web/gh/schema/app.schema.json'))
+          doc = json.load(open('web/gh/data/apps.json'))
+          errs = sorted(Draft202012Validator(schema).iter_errors(doc), key=lambda e: list(e.path))
+          if errs:
+              for e in errs[:20]:
+                  print('INVALID', list(e.path), e.message)
+              sys.exit(1)
+          assert doc['count'] == len(doc['apps']), 'count mismatch'
+          repos = [a['repo'] for a in doc['apps']]
+          assert len(repos) == len(set(repos)), 'duplicate repo'
+          for a in doc['apps']:
+              assert a.get('platforms'), 'no platforms: ' + a['repo']
+              assert a.get('downloads'), 'no downloads: ' + a['repo']
+          print('catalog OK:', doc['count'], 'apps')
+          PY
+
+      - name: Mirror into kosha
+        run: cp web/gh/data/apps.json web/kosha/data/apps.json
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- web/gh/data/apps.json web/kosha/data/apps.json; then
+            echo "No change."; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/gh/data/apps.json web/kosha/data/apps.json
+          git commit -m "chore: refresh the GitHub catalog"
+          git push
