@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vasudev-work.github.io/swadeshi-gh-store/schema/app.schema.json",
+  "title": "Swadeshi GitHub App Store catalog",
+  "description": "Catalog built only from public GitHub Releases. Every field comes from the GitHub REST API or from data/overrides.json.",
+  "type": "object",
+  "required": [
+    "generated",
+    "source",
+    "count",
+    "apps"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "generated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC time the catalog was written by scripts/build_catalog.py."
+    },
+    "source": {
+      "const": "GitHub Releases"
+    },
+    "count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Must equal apps.length."
+    },
+    "apps": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/app"
+      }
+    }
+  },
+  "$defs": {
+    "app": {
+      "type": "object",
+      "required": [
+        "name",
+        "developer",
+        "repo",
+        "repo_url",
+        "version",
+        "file_size",
+        "size_human",
+        "release_url",
+        "download_url",
+        "assets",
+        "platforms",
+        "downloads"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80,
+          "description": "Display name. From data/overrides.json when set, otherwise derived from the repo name."
+        },
+        "description": {
+          "type": "string",
+          "maxLength": 300,
+          "description": "Repo description, or the override. Empty string when GitHub has none."
+        },
+        "developer": {
+          "type": "string",
+          "description": "GitHub owner login of the repository."
+        },
+        "repo": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
+          "description": "owner/repo, the identity of the entry."
+        },
+        "repo_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "version": {
+          "type": "string",
+          "description": "Release tag name, exactly as published."
+        },
+        "platforms": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Platforms this release ships a build for.",
+          "items": {
+            "enum": [
+              "android",
+              "windows",
+              "macos",
+              "linux"
+            ]
+          }
+        },
+        "file_size": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Size of the primary APK asset in bytes."
+        },
+        "size_human": {
+          "type": "string",
+          "pattern": "^[0-9.]+ (B|KB|MB|GB)$"
+        },
+        "release_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "icon": {
+          "type": "string",
+          "description": "raw.githubusercontent.com URL of the app's launcher icon found in the repo. Empty string when the repo only ships a vector icon."
+        },
+        "download_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Direct browser_download_url of the primary APK asset."
+        },
+        "downloads": {
+          "type": "array",
+          "minItems": 1,
+          "description": "One best download per platform, in the same order as platforms.",
+          "items": {
+            "type": "object",
+            "required": [
+              "platform",
+              "name",
+              "size",
+              "size_human",
+              "download_url"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "platform": {
+                "enum": [
+                  "android",
+                  "windows",
+                  "macos",
+                  "linux"
+                ]
+              },
+              "name": {
+                "type": "string"
+              },
+              "size": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "size_human": {
+                "type": "string"
+              },
+              "download_url": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        },
+        "assets": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Every .apk asset on that release, largest first.",
+          "items": {
+            "type": "object",
+            "required": [
+              "download_url",
+              "size",
+              "platform",
+              "size_human",
+              "name"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "size": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "size_human": {
+                "type": "string"
+              },
+              "download_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "platform": {
+                "enum": [
+                  "android",
+                  "windows",
+                  "macos",
+                  "linux"
+                ]
+              }
+            }
+          }
+        },
+        "updated": {
+          "type": "string",
+          "description": "Release publish date, YYYY-MM-DD."
+        },
+        "license": {
+          "type": "string",
+          "description": "SPDX id from the repo, or empty when GitHub reports none."
+        },
+        "stars": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "language": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

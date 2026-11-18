@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swadeshi</title>
+<meta name="theme-color" content="#0B0B0C">
+<style>
+  :root{--bg:#0B0B0C;--surf:#141416;--line:#26262A;--fg:#fff;--mut:#A8A8AE;--acc:#1E7A46}
+  html[data-theme="light"]{--bg:#F6F5F2;--surf:#fff;--line:#DCDAD4;--fg:#121214;--mut:#5B5B63}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+       font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+       display:flex;min-height:100vh;align-items:center;justify-content:center;padding:24px}
+  .box{width:100%;max-width:680px}
+  .mark{width:44px;height:44px;border-radius:11px;background:var(--acc);color:#fff;
+        display:flex;align-items:center;justify-content:center;font-weight:700;font-size:20px;margin-bottom:16px}
+  h1{margin:0 0 6px;font-size:27px;letter-spacing:-.6px}
+  p.sub{margin:0 0 26px;color:var(--mut);font-size:14px}
+  a.card{display:flex;align-items:center;gap:14px;background:var(--surf);border:1.5px solid var(--line);
+         border-radius:16px;padding:16px 18px;margin-bottom:11px;color:inherit;text-decoration:none;
+         transition:border-color .14s,transform .14s}
+  a.card:hover{border-color:var(--acc);transform:translateY(-2px)}
+  .n{font-weight:600;font-size:15px;margin-bottom:2px}
+  .d{color:var(--mut);font-size:13px}
+  .c{margin-left:auto;color:var(--mut);font-size:12px;white-space:nowrap}
+  footer{margin-top:22px;color:var(--mut);font-size:12.5px}
+  footer a{color:var(--mut)}
+</style>
+</head>
+<body>
+<div class="box">
+  <div class="mark">S</div>
+  <h1>Swadeshi</h1>
+  <p class="sub">Indian apps, three ways in. Pick one.</p>
+
+  <a class="card" href="web/play/">
+    <div><div class="n">Play catalogue</div><div class="d">1,489 Indian apps on the Play Store, by category, with alternatives</div></div>
+    <span class="c">web/play</span>
+  </a>
+  <a class="card" href="web/gh/">
+    <div><div class="n">GitHub Releases</div><div class="d">201 repos that ship the build themselves, on any platform</div></div>
+    <span class="c">web/gh</span>
+  </a>
+  <a class="card" href="web/kosha/">
+    <div><div class="n">Kosha</div><div class="d">The same GitHub data, in the Nijatva look</div></div>
+    <span class="c">web/kosha</span>
+  </a>
+
+  <footer>
+    App source in <a href="android/">android/</a> &middot; data in <a href="data/">data/</a> &middot;
+    <a href="https://github.com/vasudev-work/swadeshi">repository</a>
+  </footer>
+</div>
+<script>if(localStorage.getItem('kosha-theme')==='light')document.documentElement.dataset.theme='light';</script>
+</body>
+</html>

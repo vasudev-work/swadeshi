@@ -1,0 +1,50 @@
+{
+  "_comment": "Display overrides where the repo name is not a good app name. Only name and description are set here; everything else comes from the GitHub API.",
+  "celzero/rethink-app": {
+    "name": "RethinkDNS",
+    "description": "DNS and firewall for Android. Block trackers, pick your DNS resolver, see what each app connects to."
+  },
+  "kananinirav/Indian-IPTV-App": {
+    "name": "Indian IPTV",
+    "description": "Watch Indian TV channels over IPTV."
+  },
+  "PatilShreyas/Covid19-Notifier-IN": {
+    "name": "Covid19 Notifier India"
+  },
+  "Coders-Of-XDA-OT/covid19-status-android": {
+    "name": "Covid19 Status"
+  },
+  "google-udacity-india-scholars/abnd-track-pomodoro-timer-app": {
+    "name": "Pomodoro Timer",
+    "description": "A pomodoro timer built during the Google Udacity India scholarship."
+  },
+  "rezonance-india/app": {
+    "name": "Rezonance",
+    "description": "Music and audio app from Rezonance India."
+  },
+  "cis-india/Wikisource-Reader": {
+    "name": "Wikisource Reader",
+    "description": "Read Wikisource offline on Android."
+  },
+  "AIM-IT4/kosh": {
+    "name": "Kosh",
+    "description": "Open-source Android app from AIM-IT4."
+  },
+  "Sushant-Hande/GoCorona": {
+    "name": "GoCorona"
+  },
+  "shrikanth7698/INDIA-COVID-19-Tracker": {
+    "name": "India Covid Tracker"
+  },
+  "irshadm/volta-android": {
+    "name": "Volta",
+    "description": "Open-source Android app by irshadm."
+  },
+  "mehatab/covid-19": {
+    "name": "Covid 19 Tracker"
+  },
+  "GothwadTech/browser": {
+    "name": "Gothwad Browser",
+    "description": "A small Android browser from GothwadTech."
+  }
+}
