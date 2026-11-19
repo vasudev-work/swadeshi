@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T09:42:19Z",
+ "generated": "2026-11-19T11:42:33Z",
  "source": "GitHub Releases",
  "count": 201,
  "apps": [
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-10-22",
    "license": "MIT",
-   "stars": 48441,
+   "stars": 48462,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5932,
+   "stars": 5935,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -555,7 +555,7 @@
    ],
    "updated": "2026-10-12",
    "license": "AGPL-3.0",
-   "stars": 47,
+   "stars": 48,
    "language": "HTML",
    "icon": "https://raw.githubusercontent.com/xanb-ship-it/RezeDesign-Mobile/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -1115,62 +1115,107 @@
   {
    "name": "Gothwad Browser",
    "description": "A small Android browser from GothwadTech.",
-   "developer": "GothwadTech",
+   "developer": "Bansify",
    "repo": "GothwadTech/browser",
-   "repo_url": "https://github.com/GothwadTech/browser",
-   "version": "v1.0.138",
+   "repo_url": "https://github.com/Bansify/browser-lite",
+   "version": "v1.0.140",
    "platforms": [
     "android",
     "linux"
    ],
-   "file_size": 9045628,
+   "file_size": 9045648,
    "size_human": "8.6 MB",
-   "release_url": "https://github.com/GothwadTech/browser/releases/tag/v1.0.138",
-   "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/GothwadTVBrowser-v1.0.138-Debug.apk",
+   "release_url": "https://github.com/Bansify/browser-lite/releases/tag/v1.0.140",
+   "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "GothwadTVBrowser-v1.0.138-Debug.apk",
-     "size": 9045628,
+     "name": "GothwadTVBrowser-v1.0.140-Debug.apk",
+     "size": 9045648,
      "size_human": "8.6 MB",
-     "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/GothwadTVBrowser-v1.0.138-Debug.apk"
+     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
     },
     {
      "platform": "linux",
-     "name": "gothwad-browser_1.0.138_all.deb",
-     "size": 1814606,
+     "name": "gothwad-browser_1.0.140_all.deb",
+     "size": 1809162,
      "size_human": "1.7 MB",
-     "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/gothwad-browser_1.0.138_all.deb"
+     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
     }
    ],
    "assets": [
     {
-     "name": "GothwadTVBrowser-v1.0.138-Debug.apk",
-     "size": 9045628,
+     "name": "GothwadTVBrowser-v1.0.140-Debug.apk",
+     "size": 9045648,
      "size_human": "8.6 MB",
      "platform": "android",
-     "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/GothwadTVBrowser-v1.0.138-Debug.apk"
+     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
     },
     {
-     "name": "GothwadTVBrowser-v1.0.138-Release.apk",
-     "size": 4274549,
+     "name": "GothwadTVBrowser-v1.0.140-Release.apk",
+     "size": 4274551,
      "size_human": "4.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/GothwadTVBrowser-v1.0.138-Release.apk"
+     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Release.apk"
     },
     {
-     "name": "gothwad-browser_1.0.138_all.deb",
-     "size": 1814606,
+     "name": "gothwad-browser_1.0.140_all.deb",
+     "size": 1809162,
      "size_human": "1.7 MB",
      "platform": "linux",
-     "download_url": "https://github.com/GothwadTech/browser/releases/download/v1.0.138/gothwad-browser_1.0.138_all.deb"
+     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
     }
    ],
-   "updated": "2026-10-15",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 9,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/GothwadTech/browser/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
+   "name": "Gpay India Accessibility Fix",
+   "description": "No-root Android fix for Google Pay India blocking payments when a legitimate accessibility app (MacroDroid, launchers, etc.) is enabled. Toggles accessibility off while you pay and back on after.",
+   "developer": "gdr1999",
+   "repo": "gdr1999/gpay-india-accessibility-fix",
+   "repo_url": "https://github.com/gdr1999/gpay-india-accessibility-fix",
+   "version": "v1.1",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 30742611,
+   "size_human": "29.3 MB",
+   "release_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/tag/v1.1",
+   "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "GPayReady-v1.1.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "GPayReady-v1.1.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
+    },
+    {
+     "name": "GPayReady.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady.apk"
+    }
+   ],
+   "updated": "2026-11-07",
+   "license": "MIT",
+   "stars": 9,
+   "language": "Kotlin",
+   "icon": ""
   },
   {
    "name": "Kerala Tv",
@@ -1260,51 +1305,6 @@
    "license": "",
    "stars": 9,
    "language": "",
-   "icon": ""
-  },
-  {
-   "name": "Gpay India Accessibility Fix",
-   "description": "No-root Android fix for Google Pay India blocking payments when a legitimate accessibility app (MacroDroid, launchers, etc.) is enabled. Toggles accessibility off while you pay and back on after.",
-   "developer": "gdr1999",
-   "repo": "gdr1999/gpay-india-accessibility-fix",
-   "repo_url": "https://github.com/gdr1999/gpay-india-accessibility-fix",
-   "version": "v1.1",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 30742611,
-   "size_human": "29.3 MB",
-   "release_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/tag/v1.1",
-   "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "GPayReady-v1.1.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "GPayReady-v1.1.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
-    },
-    {
-     "name": "GPayReady.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady.apk"
-    }
-   ],
-   "updated": "2026-11-07",
-   "license": "MIT",
-   "stars": 8,
-   "language": "Kotlin",
    "icon": ""
   },
   {
@@ -1617,33 +1617,33 @@
    "developer": "muthumanikandanb2005-ux",
    "repo": "muthumanikandanb2005-ux/Movix",
    "repo_url": "https://github.com/muthumanikandanb2005-ux/Movix",
-   "version": "v2.2.5",
+   "version": "v2.2.6",
    "platforms": [
     "android"
    ],
-   "file_size": 15997956,
+   "file_size": 15998991,
    "size_human": "15.3 MB",
-   "release_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/tag/v2.2.5",
-   "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.5/movix-app-v2.2.5.apk",
+   "release_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/tag/v2.2.6",
+   "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "movix-app-v2.2.5.apk",
-     "size": 15997956,
+     "name": "movix-app-v2.2.6.apk",
+     "size": 15998991,
      "size_human": "15.3 MB",
-     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.5/movix-app-v2.2.5.apk"
+     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk"
     }
    ],
    "assets": [
     {
-     "name": "movix-app-v2.2.5.apk",
-     "size": 15997956,
+     "name": "movix-app-v2.2.6.apk",
+     "size": 15998991,
      "size_human": "15.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.5/movix-app-v2.2.5.apk"
+     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk"
     }
    ],
-   "updated": "2026-11-16",
+   "updated": "2026-11-18",
    "license": "",
    "stars": 5,
    "language": "TypeScript",
@@ -3545,7 +3545,7 @@
    "platforms": [
     "android"
    ],
-   "file_size": 9450708,
+   "file_size": 9453424,
    "size_human": "9.0 MB",
    "release_url": "https://github.com/nijatva/nijatva-browser/releases/tag/latest",
    "download_url": "https://github.com/nijatva/nijatva-browser/releases/download/latest/Nijatva-debug.apk",
@@ -3553,7 +3553,7 @@
     {
      "platform": "android",
      "name": "Nijatva-debug.apk",
-     "size": 9450708,
+     "size": 9453424,
      "size_human": "9.0 MB",
      "download_url": "https://github.com/nijatva/nijatva-browser/releases/download/latest/Nijatva-debug.apk"
     }
@@ -3561,7 +3561,7 @@
    "assets": [
     {
      "name": "Nijatva-debug.apk",
-     "size": 9450708,
+     "size": 9453424,
      "size_human": "9.0 MB",
      "platform": "android",
      "download_url": "https://github.com/nijatva/nijatva-browser/releases/download/latest/Nijatva-debug.apk"
@@ -3583,7 +3583,7 @@
    "platforms": [
     "android"
    ],
-   "file_size": 14279365,
+   "file_size": 14282153,
    "size_human": "13.6 MB",
    "release_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/tag/latest",
    "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk",
@@ -3591,7 +3591,7 @@
     {
      "platform": "android",
      "name": "MiniX-debug.apk",
-     "size": 14279365,
+     "size": 14282153,
      "size_human": "13.6 MB",
      "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk"
     }
@@ -3599,7 +3599,7 @@
    "assets": [
     {
      "name": "MiniX-debug.apk",
-     "size": 14279365,
+     "size": 14282153,
      "size_human": "13.6 MB",
      "platform": "android",
      "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk"
@@ -3662,33 +3662,33 @@
    "developer": "nijatva",
    "repo": "nijatva/nijatva-contacts",
    "repo_url": "https://github.com/nijatva/nijatva-contacts",
-   "version": "v1.1",
+   "version": "v1.3",
    "platforms": [
     "android"
    ],
-   "file_size": 53982,
-   "size_human": "53 KB",
-   "release_url": "https://github.com/nijatva/nijatva-contacts/releases/tag/v1.1",
-   "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.1/Nijatva_Contacts_v1.1.apk",
+   "file_size": 57845,
+   "size_human": "56 KB",
+   "release_url": "https://github.com/nijatva/nijatva-contacts/releases/tag/v1.3",
+   "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.3/Nijatva_Contacts_v1.3.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Nijatva_Contacts_v1.1.apk",
-     "size": 53982,
-     "size_human": "53 KB",
-     "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.1/Nijatva_Contacts_v1.1.apk"
+     "name": "Nijatva_Contacts_v1.3.apk",
+     "size": 57845,
+     "size_human": "56 KB",
+     "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.3/Nijatva_Contacts_v1.3.apk"
     }
    ],
    "assets": [
     {
-     "name": "Nijatva_Contacts_v1.1.apk",
-     "size": 53982,
-     "size_human": "53 KB",
+     "name": "Nijatva_Contacts_v1.3.apk",
+     "size": 57845,
+     "size_human": "56 KB",
      "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.1/Nijatva_Contacts_v1.1.apk"
+     "download_url": "https://github.com/nijatva/nijatva-contacts/releases/download/v1.3/Nijatva_Contacts_v1.3.apk"
     }
    ],
-   "updated": "2026-11-17",
+   "updated": "2026-11-18",
    "license": "Apache-2.0",
    "stars": 1,
    "language": "Java",
@@ -3700,33 +3700,33 @@
    "developer": "nijatva",
    "repo": "nijatva/nijatva-dialer",
    "repo_url": "https://github.com/nijatva/nijatva-dialer",
-   "version": "v1.4",
+   "version": "v1.6",
    "platforms": [
     "android"
    ],
-   "file_size": 519021,
-   "size_human": "507 KB",
-   "release_url": "https://github.com/nijatva/nijatva-dialer/releases/tag/v1.4",
-   "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.4/Nijatva_Dialer_v1.4.apk",
+   "file_size": 358007,
+   "size_human": "350 KB",
+   "release_url": "https://github.com/nijatva/nijatva-dialer/releases/tag/v1.6",
+   "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.6/Nijatva_Dialer_v1.6.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Nijatva_Dialer_v1.4.apk",
-     "size": 519021,
-     "size_human": "507 KB",
-     "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.4/Nijatva_Dialer_v1.4.apk"
+     "name": "Nijatva_Dialer_v1.6.apk",
+     "size": 358007,
+     "size_human": "350 KB",
+     "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.6/Nijatva_Dialer_v1.6.apk"
     }
    ],
    "assets": [
     {
-     "name": "Nijatva_Dialer_v1.4.apk",
-     "size": 519021,
-     "size_human": "507 KB",
+     "name": "Nijatva_Dialer_v1.6.apk",
+     "size": 358007,
+     "size_human": "350 KB",
      "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.4/Nijatva_Dialer_v1.4.apk"
+     "download_url": "https://github.com/nijatva/nijatva-dialer/releases/download/v1.6/Nijatva_Dialer_v1.6.apk"
     }
    ],
-   "updated": "2026-11-17",
+   "updated": "2026-11-18",
    "license": "Apache-2.0",
    "stars": 1,
    "language": "Java",
@@ -3814,33 +3814,33 @@
    "developer": "nijatva",
    "repo": "nijatva/nijatva-messages",
    "repo_url": "https://github.com/nijatva/nijatva-messages",
-   "version": "v1.1",
+   "version": "v1.3",
    "platforms": [
     "android"
    ],
-   "file_size": 41694,
-   "size_human": "41 KB",
-   "release_url": "https://github.com/nijatva/nijatva-messages/releases/tag/v1.1",
-   "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.1/Nijatva_Messages_v1.1.apk",
+   "file_size": 49653,
+   "size_human": "48 KB",
+   "release_url": "https://github.com/nijatva/nijatva-messages/releases/tag/v1.3",
+   "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.3/Nijatva_Messages_v1.3.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Nijatva_Messages_v1.1.apk",
-     "size": 41694,
-     "size_human": "41 KB",
-     "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.1/Nijatva_Messages_v1.1.apk"
+     "name": "Nijatva_Messages_v1.3.apk",
+     "size": 49653,
+     "size_human": "48 KB",
+     "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.3/Nijatva_Messages_v1.3.apk"
     }
    ],
    "assets": [
     {
-     "name": "Nijatva_Messages_v1.1.apk",
-     "size": 41694,
-     "size_human": "41 KB",
+     "name": "Nijatva_Messages_v1.3.apk",
+     "size": 49653,
+     "size_human": "48 KB",
      "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.1/Nijatva_Messages_v1.1.apk"
+     "download_url": "https://github.com/nijatva/nijatva-messages/releases/download/v1.3/Nijatva_Messages_v1.3.apk"
     }
    ],
-   "updated": "2026-11-17",
+   "updated": "2026-11-18",
    "license": "Apache-2.0",
    "stars": 1,
    "language": "Java",
@@ -3856,7 +3856,7 @@
    "platforms": [
     "android"
    ],
-   "file_size": 19274034,
+   "file_size": 19292334,
    "size_human": "18.4 MB",
    "release_url": "https://github.com/nijatva/nijatva-music-player/releases/tag/v1.1.2",
    "download_url": "https://github.com/nijatva/nijatva-music-player/releases/download/v1.1.2/nijatva-music-1.1.2-debug.apk",
@@ -3864,7 +3864,7 @@
     {
      "platform": "android",
      "name": "nijatva-music-1.1.2-debug.apk",
-     "size": 19274034,
+     "size": 19292334,
      "size_human": "18.4 MB",
      "download_url": "https://github.com/nijatva/nijatva-music-player/releases/download/v1.1.2/nijatva-music-1.1.2-debug.apk"
     }
@@ -3872,7 +3872,7 @@
    "assets": [
     {
      "name": "nijatva-music-1.1.2-debug.apk",
-     "size": 19274034,
+     "size": 19292334,
      "size_human": "18.4 MB",
      "platform": "android",
      "download_url": "https://github.com/nijatva/nijatva-music-player/releases/download/v1.1.2/nijatva-music-1.1.2-debug.apk"
@@ -4364,24 +4364,24 @@
   {
    "name": "Storeapp",
    "description": "Kiwi Store - Biggest App Store For India - Made In India - Open Source Apps HUB - Gothwad Ecosystem By Gothwad Accounts Login - Managed by Gothwad Tech & Dark Root.",
-   "developer": "GothwadTech",
+   "developer": "Bansify",
    "repo": "GothwadTech/storeapp",
-   "repo_url": "https://github.com/GothwadTech/storeapp",
+   "repo_url": "https://github.com/Bansify/storeapp",
    "version": "v1.0.23",
    "platforms": [
     "android"
    ],
    "file_size": 20744205,
    "size_human": "19.8 MB",
-   "release_url": "https://github.com/GothwadTech/storeapp/releases/tag/v1.0.23",
-   "download_url": "https://github.com/GothwadTech/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk",
+   "release_url": "https://github.com/Bansify/storeapp/releases/tag/v1.0.23",
+   "download_url": "https://github.com/Bansify/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "KiwiStore-v1.0.23-Debug.apk",
      "size": 20744205,
      "size_human": "19.8 MB",
-     "download_url": "https://github.com/GothwadTech/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk"
+     "download_url": "https://github.com/Bansify/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk"
     }
    ],
    "assets": [
@@ -4390,14 +4390,14 @@
      "size": 20744205,
      "size_human": "19.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/GothwadTech/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk"
+     "download_url": "https://github.com/Bansify/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Debug.apk"
     },
     {
      "name": "KiwiStore-v1.0.23-Release.apk",
      "size": 13951751,
      "size_human": "13.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/GothwadTech/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Release.apk"
+     "download_url": "https://github.com/Bansify/storeapp/releases/download/v1.0.23/KiwiStore-v1.0.23-Release.apk"
     }
    ],
    "updated": "2026-10-19",
@@ -4666,7 +4666,7 @@
      "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v17/BN-Mullick-Arena.apk"
     }
    ],
-   "updated": "2026-11-17",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 0,
    "language": "",
@@ -5559,33 +5559,33 @@
    "developer": "imran866565-debug",
    "repo": "imran866565-debug/fatawa-razviya-app",
    "repo_url": "https://github.com/imran866565-debug/fatawa-razviya-app",
-   "version": "v1.1.3",
+   "version": "v1.1.4",
    "platforms": [
     "android"
    ],
-   "file_size": 56476890,
-   "size_human": "53.9 MB",
-   "release_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/tag/v1.1.3",
-   "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.3/app-debug.apk",
+   "file_size": 63217894,
+   "size_human": "60.3 MB",
+   "release_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/tag/v1.1.4",
+   "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.4/app-debug.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "app-debug.apk",
-     "size": 56476890,
-     "size_human": "53.9 MB",
-     "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.3/app-debug.apk"
+     "size": 63217894,
+     "size_human": "60.3 MB",
+     "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.4/app-debug.apk"
     }
    ],
    "assets": [
     {
      "name": "app-debug.apk",
-     "size": 56476890,
-     "size_human": "53.9 MB",
+     "size": 63217894,
+     "size_human": "60.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.3/app-debug.apk"
+     "download_url": "https://github.com/imran866565-debug/fatawa-razviya-app/releases/download/v1.1.4/app-debug.apk"
     }
    ],
-   "updated": "2026-11-18",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 0,
    "language": "JavaScript",
@@ -6037,33 +6037,33 @@
    "developer": "RamSoft-by-RVPL",
    "repo": "bvmanas/iimm-buddy",
    "repo_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy",
-   "version": "v0.8.14",
+   "version": "v0.8.17",
    "platforms": [
     "android"
    ],
-   "file_size": 22608587,
-   "size_human": "21.6 MB",
-   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.14",
-   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.14/IIMM-Buddy.apk",
+   "file_size": 22706743,
+   "size_human": "21.7 MB",
+   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.17",
+   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "IIMM-Buddy.apk",
-     "size": 22608587,
-     "size_human": "21.6 MB",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.14/IIMM-Buddy.apk"
+     "size": 22706743,
+     "size_human": "21.7 MB",
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk"
     }
    ],
    "assets": [
     {
      "name": "IIMM-Buddy.apk",
-     "size": 22608587,
-     "size_human": "21.6 MB",
+     "size": 22706743,
+     "size_human": "21.7 MB",
      "platform": "android",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.14/IIMM-Buddy.apk"
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk"
     }
    ],
-   "updated": "2026-11-18",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 0,
    "language": "Dart",
@@ -7736,54 +7736,61 @@
    "developer": "armaansidhus69",
    "repo": "armaansidhus69/punjabi-beats-android",
    "repo_url": "https://github.com/armaansidhus69/punjabi-beats-android",
-   "version": "v1.1.0",
+   "version": "v1.4.2",
    "platforms": [
     "android"
    ],
-   "file_size": 25075375,
-   "size_human": "23.9 MB",
-   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.1.0",
-   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/punjabi-beats-v1.1.0-latest.apk",
+   "file_size": 26492394,
+   "size_human": "25.3 MB",
+   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.4.2",
+   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "punjabi-beats-v1.1.0-latest.apk",
-     "size": 25075375,
-     "size_human": "23.9 MB",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/punjabi-beats-v1.1.0-latest.apk"
+     "name": "punjabi-beats-v1.4.2-latest.apk",
+     "size": 26492394,
+     "size_human": "25.3 MB",
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk"
     }
    ],
    "assets": [
     {
-     "name": "punjabi-beats-v1.1.0-latest.apk",
-     "size": 25075375,
-     "size_human": "23.9 MB",
+     "name": "punjabi-beats-v1.4.2-latest.apk",
+     "size": 26492394,
+     "size_human": "25.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/punjabi-beats-v1.1.0-latest.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk"
     },
     {
-     "name": "punjabi-beats-zen-v1.1-debug.apk",
-     "size": 25075375,
-     "size_human": "23.9 MB",
+     "name": "punjabi-beats-v1.4.2-ui-proportional.apk",
+     "size": 26492394,
+     "size_human": "25.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/punjabi-beats-zen-v1.1-debug.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-ui-proportional.apk"
     },
     {
-     "name": "PunjabiBeats-v1.1.0-zen-debug.apk",
-     "size": 25075375,
-     "size_human": "23.9 MB",
+     "name": "PunjabiBeats-v1.4.2-debug.apk",
+     "size": 26492394,
+     "size_human": "25.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/PunjabiBeats-v1.1.0-zen-debug.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/PunjabiBeats-v1.4.2-debug.apk"
     },
     {
-     "name": "punjabi-beats-v1.0.0-legacy.apk",
-     "size": 24463033,
-     "size_human": "23.3 MB",
+     "name": "punjabi-beats-v1.4.2-color-fix.apk",
+     "size": 26492373,
+     "size_human": "25.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.1.0/punjabi-beats-v1.0.0-legacy.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-color-fix.apk"
+    },
+    {
+     "name": "punjabi-beats-v1.4.2-ui-polished.apk",
+     "size": 26239829,
+     "size_human": "25.0 MB",
+     "platform": "android",
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-ui-polished.apk"
     }
    ],
-   "updated": "2026-11-16",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 0,
    "language": "Kotlin",
@@ -7871,33 +7878,33 @@
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "oor-arivippu-v1.1.22",
+   "version": "oor-arivippu-v1.1.26",
    "platforms": [
     "android"
    ],
    "file_size": 12941104,
    "size_human": "12.3 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/oor-arivippu-v1.1.22",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.22/Oor-Arivippu-v1.1.22.apk",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/oor-arivippu-v1.1.26",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.26/Oor-Arivippu-v1.1.26.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Oor-Arivippu-v1.1.22.apk",
+     "name": "Oor-Arivippu-v1.1.26.apk",
      "size": 12941104,
      "size_human": "12.3 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.22/Oor-Arivippu-v1.1.22.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.26/Oor-Arivippu-v1.1.26.apk"
     }
    ],
    "assets": [
     {
-     "name": "Oor-Arivippu-v1.1.22.apk",
+     "name": "Oor-Arivippu-v1.1.26.apk",
      "size": 12941104,
      "size_human": "12.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.22/Oor-Arivippu-v1.1.22.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/oor-arivippu-v1.1.26/Oor-Arivippu-v1.1.26.apk"
     }
    ],
-   "updated": "2026-11-18",
+   "updated": "2026-11-19",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
