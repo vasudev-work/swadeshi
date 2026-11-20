@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-19T11:42:33Z",
+ "generated": "2026-11-20T11:42:34Z",
  "source": "GitHub Releases",
- "count": 201,
+ "count": 200,
  "apps": [
   {
    "name": "Bruno",
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-10-22",
    "license": "MIT",
-   "stars": 48462,
+   "stars": 48477,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5935,
+   "stars": 5945,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -290,7 +290,7 @@
    ],
    "updated": "2024-08-15",
    "license": "MIT",
-   "stars": 342,
+   "stars": 343,
    "language": "Dart",
    "icon": "https://raw.githubusercontent.com/kananinirav/Indian-IPTV-App/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -328,7 +328,7 @@
    ],
    "updated": "2026-10-14",
    "license": "MIT",
-   "stars": 161,
+   "stars": 162,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/coding-parrot/pothole-reporter/main/android-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -482,44 +482,6 @@
    "stars": 53,
    "language": "TypeScript",
    "icon": "https://raw.githubusercontent.com/sarthakpranesh/Covid19/master/assets/icon.png"
-  },
-  {
-   "name": "Android Design",
-   "description": "Material 3 Expressive design judgment for Jetpack Compose, as an agent skill",
-   "developer": "charliesbot",
-   "repo": "charliesbot/android-design",
-   "repo_url": "https://github.com/charliesbot/android-design",
-   "version": "v0.1.1",
-   "platforms": [
-    "macos"
-   ],
-   "file_size": 113926258,
-   "size_human": "108.6 MB",
-   "release_url": "https://github.com/charliesbot/android-design/releases/tag/v0.1.1",
-   "download_url": "https://github.com/charliesbot/android-design/releases/download/v0.1.1/AndroidDesignPreview.dmg",
-   "downloads": [
-    {
-     "platform": "macos",
-     "name": "AndroidDesignPreview.dmg",
-     "size": 113926258,
-     "size_human": "108.6 MB",
-     "download_url": "https://github.com/charliesbot/android-design/releases/download/v0.1.1/AndroidDesignPreview.dmg"
-    }
-   ],
-   "assets": [
-    {
-     "name": "AndroidDesignPreview.dmg",
-     "size": 113926258,
-     "size_human": "108.6 MB",
-     "platform": "macos",
-     "download_url": "https://github.com/charliesbot/android-design/releases/download/v0.1.1/AndroidDesignPreview.dmg"
-    }
-   ],
-   "updated": "2026-11-05",
-   "license": "",
-   "stars": 52,
-   "language": "Kotlin",
-   "icon": ""
   },
   {
    "name": "RezeDesign Mobile",
@@ -1061,6 +1023,51 @@
    "icon": "https://raw.githubusercontent.com/mehatab/covid-19/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Gpay India Accessibility Fix",
+   "description": "No-root Android fix for Google Pay India blocking payments when a legitimate accessibility app (MacroDroid, launchers, etc.) is enabled. Toggles accessibility off while you pay and back on after.",
+   "developer": "gdr1999",
+   "repo": "gdr1999/gpay-india-accessibility-fix",
+   "repo_url": "https://github.com/gdr1999/gpay-india-accessibility-fix",
+   "version": "v1.1",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 30742611,
+   "size_human": "29.3 MB",
+   "release_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/tag/v1.1",
+   "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "GPayReady-v1.1.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "GPayReady-v1.1.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
+    },
+    {
+     "name": "GPayReady.apk",
+     "size": 30742611,
+     "size_human": "29.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady.apk"
+    }
+   ],
+   "updated": "2026-11-07",
+   "license": "MIT",
+   "stars": 10,
+   "language": "Kotlin",
+   "icon": ""
+  },
+  {
    "name": "Newsup",
    "description": "AI fact-checker and crisis tracker for Indian news — Groq/Llama claim verification, RTI & NEET crisis timelines, built with Flutter + Supabase",
    "developer": "begoneeraj",
@@ -1117,7 +1124,7 @@
    "description": "A small Android browser from GothwadTech.",
    "developer": "Bansify",
    "repo": "GothwadTech/browser",
-   "repo_url": "https://github.com/Bansify/browser-lite",
+   "repo_url": "https://github.com/Bansify/internet",
    "version": "v1.0.140",
    "platforms": [
     "android",
@@ -1125,22 +1132,22 @@
    ],
    "file_size": 9045648,
    "size_human": "8.6 MB",
-   "release_url": "https://github.com/Bansify/browser-lite/releases/tag/v1.0.140",
-   "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk",
+   "release_url": "https://github.com/Bansify/internet/releases/tag/v1.0.140",
+   "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "GothwadTVBrowser-v1.0.140-Debug.apk",
      "size": 9045648,
      "size_human": "8.6 MB",
-     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
     },
     {
      "platform": "linux",
      "name": "gothwad-browser_1.0.140_all.deb",
      "size": 1809162,
      "size_human": "1.7 MB",
-     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
     }
    ],
    "assets": [
@@ -1149,21 +1156,21 @@
      "size": 9045648,
      "size_human": "8.6 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
     },
     {
      "name": "GothwadTVBrowser-v1.0.140-Release.apk",
      "size": 4274551,
      "size_human": "4.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Release.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Release.apk"
     },
     {
      "name": "gothwad-browser_1.0.140_all.deb",
      "size": 1809162,
      "size_human": "1.7 MB",
      "platform": "linux",
-     "download_url": "https://github.com/Bansify/browser-lite/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
     }
    ],
    "updated": "2026-11-19",
@@ -1171,51 +1178,6 @@
    "stars": 9,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/GothwadTech/browser/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
-   "name": "Gpay India Accessibility Fix",
-   "description": "No-root Android fix for Google Pay India blocking payments when a legitimate accessibility app (MacroDroid, launchers, etc.) is enabled. Toggles accessibility off while you pay and back on after.",
-   "developer": "gdr1999",
-   "repo": "gdr1999/gpay-india-accessibility-fix",
-   "repo_url": "https://github.com/gdr1999/gpay-india-accessibility-fix",
-   "version": "v1.1",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 30742611,
-   "size_human": "29.3 MB",
-   "release_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/tag/v1.1",
-   "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "GPayReady-v1.1.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "GPayReady-v1.1.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady-v1.1.apk"
-    },
-    {
-     "name": "GPayReady.apk",
-     "size": 30742611,
-     "size_human": "29.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/gdr1999/gpay-india-accessibility-fix/releases/download/v1.1/GPayReady.apk"
-    }
-   ],
-   "updated": "2026-11-07",
-   "license": "MIT",
-   "stars": 9,
-   "language": "Kotlin",
-   "icon": ""
   },
   {
    "name": "Kerala Tv",
@@ -1261,47 +1223,47 @@
    "developer": "Sharib20006",
    "repo": "Sharib20006/speechflow---android-text-to-speech-app",
    "repo_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app",
-   "version": "v1.8",
+   "version": "v1.8.4",
    "platforms": [
     "android"
    ],
-   "file_size": 19372087,
+   "file_size": 19377187,
    "size_human": "18.5 MB",
-   "release_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/tag/v1.8",
-   "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8/SpeechFlow-TTS-v1.8-universal.apk",
+   "release_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/tag/v1.8.4",
+   "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "SpeechFlow-TTS-v1.8-universal.apk",
-     "size": 19372087,
+     "name": "SpeechFlow-v1.8.4-universal-release.apk",
+     "size": 19377187,
      "size_human": "18.5 MB",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8/SpeechFlow-TTS-v1.8-universal.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk"
     }
    ],
    "assets": [
     {
-     "name": "SpeechFlow-TTS-v1.8-universal.apk",
-     "size": 19372087,
+     "name": "SpeechFlow-v1.8.4-universal-release.apk",
+     "size": 19377187,
      "size_human": "18.5 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8/SpeechFlow-TTS-v1.8-universal.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk"
     },
     {
-     "name": "SpeechFlow-TTS-v1.8-arm64.apk",
-     "size": 11504778,
+     "name": "SpeechFlow-v1.8.4-arm64-v8a-release.apk",
+     "size": 11508568,
      "size_human": "11.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8/SpeechFlow-TTS-v1.8-arm64.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-arm64-v8a-release.apk"
     },
     {
-     "name": "SpeechFlow-TTS-v1.8-armeabi-v7a.apk",
-     "size": 11263906,
+     "name": "SpeechFlow-v1.8.4-armeabi-v7a-release.apk",
+     "size": 11267770,
      "size_human": "10.7 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8/SpeechFlow-TTS-v1.8-armeabi-v7a.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-armeabi-v7a-release.apk"
     }
    ],
-   "updated": "2026-11-12",
+   "updated": "2026-11-19",
    "license": "",
    "stars": 9,
    "language": "",
@@ -4210,6 +4172,51 @@
    "icon": "https://raw.githubusercontent.com/ragavendran-r/personal-portfolio-mobile/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Punjabi Beats Android",
+   "description": "Punjabi Beats - Native Android music streaming app (Jetpack Compose, Media3, on-device ZenMusic audio extractor)",
+   "developer": "armaansidhus69",
+   "repo": "armaansidhus69/punjabi-beats-android",
+   "repo_url": "https://github.com/armaansidhus69/punjabi-beats-android",
+   "version": "v1.4.4",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 26304343,
+   "size_human": "25.1 MB",
+   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.4.4",
+   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "punjabi-beats-v1.4.4-full-redesign.apk",
+     "size": 26304343,
+     "size_human": "25.1 MB",
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "punjabi-beats-v1.4.4-full-redesign.apk",
+     "size": 26304343,
+     "size_human": "25.1 MB",
+     "platform": "android",
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk"
+    },
+    {
+     "name": "punjabi-beats-v1.4.4-latest.apk",
+     "size": 26304343,
+     "size_human": "25.1 MB",
+     "platform": "android",
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-latest.apk"
+    }
+   ],
+   "updated": "2026-11-20",
+   "license": "",
+   "stars": 1,
+   "language": "Kotlin",
+   "icon": ""
+  },
+  {
    "name": "PyazLens",
    "description": "AI-powered Android app for onion quality grading — detects, classifies, and grades onions (Healthy/Rotten/Damaged/Sprouted/Undersized) using YOLO11 segmentation, with bilingual (Hindi/English) PDF reports.",
    "developer": "Dev-VardhanX",
@@ -4640,33 +4647,33 @@
    "developer": "bn-mullick-arena",
    "repo": "bn-mullick-arena/app",
    "repo_url": "https://github.com/bn-mullick-arena/app",
-   "version": "v17",
+   "version": "v18",
    "platforms": [
     "android"
    ],
-   "file_size": 70062772,
+   "file_size": 70063676,
    "size_human": "66.8 MB",
-   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v17",
-   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v17/BN-Mullick-Arena.apk",
+   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v18",
+   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v18/BN-Mullick-Arena.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "BN-Mullick-Arena.apk",
-     "size": 70062772,
+     "size": 70063676,
      "size_human": "66.8 MB",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v17/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v18/BN-Mullick-Arena.apk"
     }
    ],
    "assets": [
     {
      "name": "BN-Mullick-Arena.apk",
-     "size": 70062772,
+     "size": 70063676,
      "size_human": "66.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v17/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v18/BN-Mullick-Arena.apk"
     }
    ],
-   "updated": "2026-11-19",
+   "updated": "2026-11-20",
    "license": "",
    "stars": 0,
    "language": "",
@@ -5129,58 +5136,58 @@
   },
   {
    "name": "Chittilata",
-   "description": "Chittilata (చిట్టిలాట): the Telugu paper-chit games Chittilu Aata and Raja Rani as a real-time, cheat-proof multiplayer Android app. Flutter + Firebase, server-authoritative.",
+   "description": "ChitPlay: the paper-chit party game (Movie Chits, King & Queen, Dumb Charades) as a real-time, cheat-proof multiplayer Android app. English movies by default, Telugu as an option. Flutter + Firebase, server-authoritative. On Google Play.",
    "developer": "ChandraChaan",
    "repo": "ChandraChaan/chittilata",
    "repo_url": "https://github.com/ChandraChaan/chittilata",
-   "version": "v2.4.0",
+   "version": "v2.7.0",
    "platforms": [
     "android"
    ],
-   "file_size": 64977141,
-   "size_human": "62.0 MB",
-   "release_url": "https://github.com/ChandraChaan/chittilata/releases/tag/v2.4.0",
-   "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-universal.apk",
+   "file_size": 65256065,
+   "size_human": "62.2 MB",
+   "release_url": "https://github.com/ChandraChaan/chittilata/releases/tag/v2.7.0",
+   "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-universal.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "chittilata-v2.4.0-universal.apk",
-     "size": 64977141,
-     "size_human": "62.0 MB",
-     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-universal.apk"
+     "name": "chittilata-v2.7.0-universal.apk",
+     "size": 65256065,
+     "size_human": "62.2 MB",
+     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-universal.apk"
     }
    ],
    "assets": [
     {
-     "name": "chittilata-v2.4.0-universal.apk",
-     "size": 64977141,
-     "size_human": "62.0 MB",
+     "name": "chittilata-v2.7.0-universal.apk",
+     "size": 65256065,
+     "size_human": "62.2 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-universal.apk"
+     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-universal.apk"
     },
     {
-     "name": "chittilata-v2.4.0-arm64-v8a.apk",
-     "size": 28947803,
-     "size_human": "27.6 MB",
+     "name": "chittilata-v2.7.0-arm64-v8a.apk",
+     "size": 29013735,
+     "size_human": "27.7 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-arm64-v8a.apk"
+     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-arm64-v8a.apk"
     },
     {
-     "name": "chittilata-v2.4.0-armeabi-v7a.apk",
-     "size": 25639543,
-     "size_human": "24.5 MB",
+     "name": "chittilata-v2.7.0-armeabi-v7a.apk",
+     "size": 25787395,
+     "size_human": "24.6 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-armeabi-v7a.apk"
+     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-armeabi-v7a.apk"
     },
     {
-     "name": "chittilata-v2.4.0-x86_64.apk",
-     "size": 30372843,
+     "name": "chittilata-v2.7.0-x86_64.apk",
+     "size": 30438775,
      "size_human": "29.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.4.0/chittilata-v2.4.0-x86_64.apk"
+     "download_url": "https://github.com/ChandraChaan/chittilata/releases/download/v2.7.0/chittilata-v2.7.0-x86_64.apk"
     }
    ],
-   "updated": "2026-11-03",
+   "updated": "2026-11-19",
    "license": "MIT",
    "stars": 0,
    "language": "Dart",
@@ -6037,30 +6044,30 @@
    "developer": "RamSoft-by-RVPL",
    "repo": "bvmanas/iimm-buddy",
    "repo_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy",
-   "version": "v0.8.17",
+   "version": "v0.8.19",
    "platforms": [
     "android"
    ],
-   "file_size": 22706743,
-   "size_human": "21.7 MB",
-   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.17",
-   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk",
+   "file_size": 22838060,
+   "size_human": "21.8 MB",
+   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.19",
+   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "IIMM-Buddy.apk",
-     "size": 22706743,
-     "size_human": "21.7 MB",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk"
+     "size": 22838060,
+     "size_human": "21.8 MB",
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk"
     }
    ],
    "assets": [
     {
      "name": "IIMM-Buddy.apk",
-     "size": 22706743,
-     "size_human": "21.7 MB",
+     "size": 22838060,
+     "size_human": "21.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.17/IIMM-Buddy.apk"
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk"
     }
    ],
    "updated": "2026-11-19",
@@ -7729,72 +7736,6 @@
    "stars": 0,
    "language": "Dart",
    "icon": "https://raw.githubusercontent.com/ChandraChaan/Puli-Meka-Game/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
-   "name": "Punjabi Beats Android",
-   "description": "Punjabi Beats - Native Android music streaming app (Jetpack Compose, Media3, on-device ZenMusic audio extractor)",
-   "developer": "armaansidhus69",
-   "repo": "armaansidhus69/punjabi-beats-android",
-   "repo_url": "https://github.com/armaansidhus69/punjabi-beats-android",
-   "version": "v1.4.2",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 26492394,
-   "size_human": "25.3 MB",
-   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.4.2",
-   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "punjabi-beats-v1.4.2-latest.apk",
-     "size": 26492394,
-     "size_human": "25.3 MB",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "punjabi-beats-v1.4.2-latest.apk",
-     "size": 26492394,
-     "size_human": "25.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-latest.apk"
-    },
-    {
-     "name": "punjabi-beats-v1.4.2-ui-proportional.apk",
-     "size": 26492394,
-     "size_human": "25.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-ui-proportional.apk"
-    },
-    {
-     "name": "PunjabiBeats-v1.4.2-debug.apk",
-     "size": 26492394,
-     "size_human": "25.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/PunjabiBeats-v1.4.2-debug.apk"
-    },
-    {
-     "name": "punjabi-beats-v1.4.2-color-fix.apk",
-     "size": 26492373,
-     "size_human": "25.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-color-fix.apk"
-    },
-    {
-     "name": "punjabi-beats-v1.4.2-ui-polished.apk",
-     "size": 26239829,
-     "size_human": "25.0 MB",
-     "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.2/punjabi-beats-v1.4.2-ui-polished.apk"
-    }
-   ],
-   "updated": "2026-11-19",
-   "license": "",
-   "stars": 0,
-   "language": "Kotlin",
-   "icon": ""
   },
   {
    "name": "Raithavarta App",
