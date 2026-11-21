@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T11:42:34Z",
+ "generated": "2026-11-21T11:02:58Z",
  "source": "GitHub Releases",
  "count": 200,
  "apps": [
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-10-22",
    "license": "MIT",
-   "stars": 48477,
+   "stars": 48492,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5945,
+   "stars": 5950,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -517,7 +517,7 @@
    ],
    "updated": "2026-10-12",
    "license": "AGPL-3.0",
-   "stars": 48,
+   "stars": 49,
    "language": "HTML",
    "icon": "https://raw.githubusercontent.com/xanb-ship-it/RezeDesign-Mobile/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -757,6 +757,44 @@
    "icon": "https://raw.githubusercontent.com/AIM-IT4/kosh/main/fastlane/metadata/android/en-US/images/icon.png"
   },
   {
+   "name": "Volta",
+   "description": "Open-source Android app by irshadm.",
+   "developer": "irshadm",
+   "repo": "irshadm/volta-android",
+   "repo_url": "https://github.com/irshadm/volta-android",
+   "version": "v0.1.7",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 13443615,
+   "size_human": "12.8 MB",
+   "release_url": "https://github.com/irshadm/volta-android/releases/tag/v0.1.7",
+   "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "volta.apk",
+     "size": 13443615,
+     "size_human": "12.8 MB",
+     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "volta.apk",
+     "size": 13443615,
+     "size_human": "12.8 MB",
+     "platform": "android",
+     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
+    }
+   ],
+   "updated": "2026-11-14",
+   "license": "Apache-2.0",
+   "stars": 14,
+   "language": "Kotlin",
+   "icon": "https://raw.githubusercontent.com/irshadm/volta-android/main/app/src/main/res/drawable-nodpi/ic_launcher_foreground.webp"
+  },
+  {
    "name": "Covid19 Stats IN",
    "description": "This app helps in tracking COVID-19 cases in India using covid19India apis",
    "developer": "adityasonel",
@@ -871,44 +909,6 @@
    "icon": "https://raw.githubusercontent.com/shrikanth7698/INDIA-COVID-19-Tracker/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
-   "name": "Volta",
-   "description": "Open-source Android app by irshadm.",
-   "developer": "irshadm",
-   "repo": "irshadm/volta-android",
-   "repo_url": "https://github.com/irshadm/volta-android",
-   "version": "v0.1.7",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 13443615,
-   "size_human": "12.8 MB",
-   "release_url": "https://github.com/irshadm/volta-android/releases/tag/v0.1.7",
-   "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "volta.apk",
-     "size": 13443615,
-     "size_human": "12.8 MB",
-     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "volta.apk",
-     "size": 13443615,
-     "size_human": "12.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
-    }
-   ],
-   "updated": "2026-11-14",
-   "license": "Apache-2.0",
-   "stars": 13,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/irshadm/volta-android/main/app/src/main/res/drawable-nodpi/ic_launcher_foreground.webp"
-  },
-  {
    "name": "MentalHealthApp",
    "description": "Here For You is a mental health monitoring app developed in association with Healthcare Professionals at SRM Institute of Science and Technology, Kattankulathur, India.",
    "developer": "MSA-SRM",
@@ -985,44 +985,6 @@
    "icon": "https://raw.githubusercontent.com/AseemBhutra/Covid19-Status-Flutter/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
-   "name": "Covid 19 Tracker",
-   "description": "Android app to track the spread of novel Corona Virus (COVID-19) in India",
-   "developer": "mehatab",
-   "repo": "mehatab/covid-19",
-   "repo_url": "https://github.com/mehatab/covid-19",
-   "version": "v1.6.2",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 2433754,
-   "size_human": "2.3 MB",
-   "release_url": "https://github.com/mehatab/covid-19/releases/tag/v1.6.2",
-   "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "app-release.apk",
-     "size": 2433754,
-     "size_human": "2.3 MB",
-     "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "app-release.apk",
-     "size": 2433754,
-     "size_human": "2.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk"
-    }
-   ],
-   "updated": "2020-06-09",
-   "license": "MIT",
-   "stars": 10,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/mehatab/covid-19/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
    "name": "Gpay India Accessibility Fix",
    "description": "No-root Android fix for Google Pay India blocking payments when a legitimate accessibility app (MacroDroid, launchers, etc.) is enabled. Toggles accessibility off while you pay and back on after.",
    "developer": "gdr1999",
@@ -1063,9 +1025,47 @@
    ],
    "updated": "2026-11-07",
    "license": "MIT",
-   "stars": 10,
+   "stars": 11,
    "language": "Kotlin",
    "icon": ""
+  },
+  {
+   "name": "Covid 19 Tracker",
+   "description": "Android app to track the spread of novel Corona Virus (COVID-19) in India",
+   "developer": "mehatab",
+   "repo": "mehatab/covid-19",
+   "repo_url": "https://github.com/mehatab/covid-19",
+   "version": "v1.6.2",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 2433754,
+   "size_human": "2.3 MB",
+   "release_url": "https://github.com/mehatab/covid-19/releases/tag/v1.6.2",
+   "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "app-release.apk",
+     "size": 2433754,
+     "size_human": "2.3 MB",
+     "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "size": 2433754,
+     "size_human": "2.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/mehatab/covid-19/releases/download/v1.6.2/app-release.apk"
+    }
+   ],
+   "updated": "2020-06-09",
+   "license": "MIT",
+   "stars": 10,
+   "language": "Kotlin",
+   "icon": "https://raw.githubusercontent.com/mehatab/covid-19/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "Newsup",
@@ -1125,55 +1125,55 @@
    "developer": "Bansify",
    "repo": "GothwadTech/browser",
    "repo_url": "https://github.com/Bansify/internet",
-   "version": "v1.0.140",
+   "version": "v1.0.141",
    "platforms": [
     "android",
     "linux"
    ],
-   "file_size": 9045648,
+   "file_size": 9029087,
    "size_human": "8.6 MB",
-   "release_url": "https://github.com/Bansify/internet/releases/tag/v1.0.140",
-   "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk",
+   "release_url": "https://github.com/Bansify/internet/releases/tag/v1.0.141",
+   "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "GothwadTVBrowser-v1.0.140-Debug.apk",
-     "size": 9045648,
+     "name": "GothwadTVBrowser-v1.0.141-Debug.apk",
+     "size": 9029087,
      "size_human": "8.6 MB",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk"
     },
     {
      "platform": "linux",
-     "name": "gothwad-browser_1.0.140_all.deb",
-     "size": 1809162,
+     "name": "gothwad-browser_1.0.141_all.deb",
+     "size": 1809664,
      "size_human": "1.7 MB",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/gothwad-browser_1.0.141_all.deb"
     }
    ],
    "assets": [
     {
-     "name": "GothwadTVBrowser-v1.0.140-Debug.apk",
-     "size": 9045648,
+     "name": "GothwadTVBrowser-v1.0.141-Debug.apk",
+     "size": 9029087,
      "size_human": "8.6 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Debug.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk"
     },
     {
-     "name": "GothwadTVBrowser-v1.0.140-Release.apk",
+     "name": "GothwadTVBrowser-v1.0.141-Release.apk",
      "size": 4274551,
      "size_human": "4.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/GothwadTVBrowser-v1.0.140-Release.apk"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Release.apk"
     },
     {
-     "name": "gothwad-browser_1.0.140_all.deb",
-     "size": 1809162,
+     "name": "gothwad-browser_1.0.141_all.deb",
+     "size": 1809664,
      "size_human": "1.7 MB",
      "platform": "linux",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.140/gothwad-browser_1.0.140_all.deb"
+     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/gothwad-browser_1.0.141_all.deb"
     }
    ],
-   "updated": "2026-11-19",
+   "updated": "2026-11-21",
    "license": "",
    "stars": 9,
    "language": "Kotlin",
@@ -1185,37 +1185,37 @@
    "developer": "harinxrn",
    "repo": "harinxrn/kerala-tv",
    "repo_url": "https://github.com/harinxrn/kerala-tv",
-   "version": "v2.6.1",
+   "version": "v2.7.0",
    "platforms": [
     "android"
    ],
    "file_size": 153061,
    "size_human": "149 KB",
-   "release_url": "https://github.com/harinxrn/kerala-tv/releases/tag/v2.6.1",
-   "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.6.1/KeralaTv-v2.6.1.apk",
+   "release_url": "https://github.com/harinxrn/kerala-tv/releases/tag/v2.7.0",
+   "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "KeralaTv-v2.6.1.apk",
+     "name": "KeralaTv-v2.7.0.apk",
      "size": 153061,
      "size_human": "149 KB",
-     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.6.1/KeralaTv-v2.6.1.apk"
+     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
     }
    ],
    "assets": [
     {
-     "name": "KeralaTv-v2.6.1.apk",
+     "name": "KeralaTv-v2.7.0.apk",
      "size": 153061,
      "size_human": "149 KB",
      "platform": "android",
-     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.6.1/KeralaTv-v2.6.1.apk"
+     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
     }
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-11-21",
    "license": "Unlicense",
    "stars": 9,
    "language": "Java",
-   "icon": "https://raw.githubusercontent.com/harinxrn/kerala-tv/main/docs/Polished%20Kerala%20Tv%20logo.png"
+   "icon": "https://raw.githubusercontent.com/harinxrn/kerala-tv/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "Speechflow   Android Text To Speech App",
@@ -1223,47 +1223,47 @@
    "developer": "Sharib20006",
    "repo": "Sharib20006/speechflow---android-text-to-speech-app",
    "repo_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app",
-   "version": "v1.8.4",
+   "version": "v1.8.5",
    "platforms": [
     "android"
    ],
-   "file_size": 19377187,
+   "file_size": 19374771,
    "size_human": "18.5 MB",
-   "release_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/tag/v1.8.4",
-   "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk",
+   "release_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/tag/v1.8.5",
+   "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.5/SpeechFlow-v1.8.5-universal-release.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "SpeechFlow-v1.8.4-universal-release.apk",
-     "size": 19377187,
+     "name": "SpeechFlow-v1.8.5-universal-release.apk",
+     "size": 19374771,
      "size_human": "18.5 MB",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.5/SpeechFlow-v1.8.5-universal-release.apk"
     }
    ],
    "assets": [
     {
-     "name": "SpeechFlow-v1.8.4-universal-release.apk",
-     "size": 19377187,
+     "name": "SpeechFlow-v1.8.5-universal-release.apk",
+     "size": 19374771,
      "size_human": "18.5 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-universal-release.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.5/SpeechFlow-v1.8.5-universal-release.apk"
     },
     {
-     "name": "SpeechFlow-v1.8.4-arm64-v8a-release.apk",
-     "size": 11508568,
+     "name": "SpeechFlow-v1.8.5-arm64-v8a-release.apk",
+     "size": 11507852,
      "size_human": "11.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-arm64-v8a-release.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.5/SpeechFlow-v1.8.5-arm64-v8a-release.apk"
     },
     {
-     "name": "SpeechFlow-v1.8.4-armeabi-v7a-release.apk",
-     "size": 11267770,
+     "name": "SpeechFlow-v1.8.5-armeabi-v7a-release.apk",
+     "size": 11266284,
      "size_human": "10.7 MB",
      "platform": "android",
-     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.4/SpeechFlow-v1.8.4-armeabi-v7a-release.apk"
+     "download_url": "https://github.com/Sharib20006/speechflow---android-text-to-speech-app/releases/download/v1.8.5/SpeechFlow-v1.8.5-armeabi-v7a-release.apk"
     }
    ],
-   "updated": "2026-11-19",
+   "updated": "2026-11-20",
    "license": "",
    "stars": 9,
    "language": "",
@@ -1457,7 +1457,7 @@
    "license": "",
    "stars": 7,
    "language": "Kotlin",
-   "icon": ""
+   "icon": "https://raw.githubusercontent.com/PixxySynchronous/Promise-keeper/gnani-challenge/web/public/icon-192.png"
   },
   {
    "name": "QRail Apk",
@@ -1536,44 +1536,6 @@
    "icon": "https://raw.githubusercontent.com/rajureddi/TurantPay/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
-   "name": "BingleFlix",
-   "description": "An Android app allows user to watch, download and share latest-old movies from a range of 9000+ movies & series in english/hindi .",
-   "developer": "rachit0904",
-   "repo": "rachit0904/BingleFlix",
-   "repo_url": "https://github.com/rachit0904/BingleFlix",
-   "version": "v1.0.2-beta",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 3846907,
-   "size_human": "3.7 MB",
-   "release_url": "https://github.com/rachit0904/BingleFlix/releases/tag/v1.0.2-beta",
-   "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "app-debug.apk",
-     "size": 3846907,
-     "size_human": "3.7 MB",
-     "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "app-debug.apk",
-     "size": 3846907,
-     "size_human": "3.7 MB",
-     "platform": "android",
-     "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk"
-    }
-   ],
-   "updated": "2020-10-09",
-   "license": "",
-   "stars": 5,
-   "language": "Java",
-   "icon": "https://raw.githubusercontent.com/rachit0904/BingleFlix/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
    "name": "Movix",
    "description": "🎬 MOVIX - High-Speed 4K Movie & Series Streaming App for Android, Windows & Mac with Universal Multi-Language Regional Audio (Hindi, Tamil, Telugu), Ad-Free Cinema Engine & PWA",
    "developer": "muthumanikandanb2005-ux",
@@ -1583,7 +1545,7 @@
    "platforms": [
     "android"
    ],
-   "file_size": 15998991,
+   "file_size": 16001396,
    "size_human": "15.3 MB",
    "release_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/tag/v2.2.6",
    "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk",
@@ -1591,7 +1553,7 @@
     {
      "platform": "android",
      "name": "movix-app-v2.2.6.apk",
-     "size": 15998991,
+     "size": 16001396,
      "size_human": "15.3 MB",
      "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk"
     }
@@ -1599,7 +1561,7 @@
    "assets": [
     {
      "name": "movix-app-v2.2.6.apk",
-     "size": 15998991,
+     "size": 16001396,
      "size_human": "15.3 MB",
      "platform": "android",
      "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.2.6/movix-app-v2.2.6.apk"
@@ -1686,6 +1648,44 @@
    "stars": 5,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/abishekvashok/vaccine-finder/main/app/src/main/ic_launcher-playstore.png"
+  },
+  {
+   "name": "BingleFlix",
+   "description": "An Android app allows user to watch, download and share latest-old movies from a range of 9000+ movies & series in english/hindi .",
+   "developer": "rachit0904",
+   "repo": "rachit0904/BingleFlix",
+   "repo_url": "https://github.com/rachit0904/BingleFlix",
+   "version": "v1.0.2-beta",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 3846907,
+   "size_human": "3.7 MB",
+   "release_url": "https://github.com/rachit0904/BingleFlix/releases/tag/v1.0.2-beta",
+   "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "app-debug.apk",
+     "size": 3846907,
+     "size_human": "3.7 MB",
+     "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "app-debug.apk",
+     "size": 3846907,
+     "size_human": "3.7 MB",
+     "platform": "android",
+     "download_url": "https://github.com/rachit0904/BingleFlix/releases/download/v1.0.2-beta/app-debug.apk"
+    }
+   ],
+   "updated": "2020-10-09",
+   "license": "",
+   "stars": 4,
+   "language": "Java",
+   "icon": "https://raw.githubusercontent.com/rachit0904/BingleFlix/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "CovidHotspotsKerala",
@@ -1800,58 +1800,6 @@
    "stars": 3,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/dilipsuthar264/echolite-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
-  },
-  {
-   "name": "Kharcha",
-   "description": "Kharcha, India-first UPI expense tracker for Android. Auto-captures bank SMS plus UPI notifications via on-device Rust parser, 220 merchant logos, budgets, reports, shareable cards. Native Kotlin plus Jetpack Compose, Room, offline-first.",
-   "developer": "AkashPriyadarshii",
-   "repo": "AkashPriyadarshii/kharcha",
-   "repo_url": "https://github.com/AkashPriyadarshii/kharcha",
-   "version": "v0.1.4",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 33723329,
-   "size_human": "32.2 MB",
-   "release_url": "https://github.com/AkashPriyadarshii/kharcha/releases/tag/v0.1.4",
-   "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "kharcha-v0.1.4-arm64-v8a.apk",
-     "size": 33723329,
-     "size_human": "32.2 MB",
-     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "kharcha-v0.1.4-arm64-v8a.apk",
-     "size": 33723329,
-     "size_human": "32.2 MB",
-     "platform": "android",
-     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk"
-    },
-    {
-     "name": "app-release.apk",
-     "size": 33723329,
-     "size_human": "32.2 MB",
-     "platform": "android",
-     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/app-release.apk"
-    },
-    {
-     "name": "kharcha-armv8a-release.apk",
-     "size": 33723329,
-     "size_human": "32.2 MB",
-     "platform": "android",
-     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-armv8a-release.apk"
-    }
-   ],
-   "updated": "2026-10-09",
-   "license": "Apache-2.0",
-   "stars": 3,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/AkashPriyadarshii/kharcha/main/android-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "Saukhyam VaccineTracker",
@@ -2183,6 +2131,58 @@
    "icon": "https://raw.githubusercontent.com/AbhijitDeyDev/ipfreetv/master/App_Resources/Android/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Kharcha",
+   "description": "Kharcha, India-first UPI expense tracker for Android. Auto-captures bank SMS plus UPI notifications via on-device Rust parser, 220 merchant logos, budgets, reports, shareable cards. Native Kotlin plus Jetpack Compose, Room, offline-first.",
+   "developer": "AkashPriyadarshii",
+   "repo": "AkashPriyadarshii/kharcha",
+   "repo_url": "https://github.com/AkashPriyadarshii/kharcha",
+   "version": "v0.1.4",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 33723329,
+   "size_human": "32.2 MB",
+   "release_url": "https://github.com/AkashPriyadarshii/kharcha/releases/tag/v0.1.4",
+   "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "kharcha-v0.1.4-arm64-v8a.apk",
+     "size": 33723329,
+     "size_human": "32.2 MB",
+     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "kharcha-v0.1.4-arm64-v8a.apk",
+     "size": 33723329,
+     "size_human": "32.2 MB",
+     "platform": "android",
+     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-v0.1.4-arm64-v8a.apk"
+    },
+    {
+     "name": "app-release.apk",
+     "size": 33723329,
+     "size_human": "32.2 MB",
+     "platform": "android",
+     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/app-release.apk"
+    },
+    {
+     "name": "kharcha-armv8a-release.apk",
+     "size": 33723329,
+     "size_human": "32.2 MB",
+     "platform": "android",
+     "download_url": "https://github.com/AkashPriyadarshii/kharcha/releases/download/v0.1.4/kharcha-armv8a-release.apk"
+    }
+   ],
+   "updated": "2026-10-09",
+   "license": "Apache-2.0",
+   "stars": 2,
+   "language": "Kotlin",
+   "icon": "https://raw.githubusercontent.com/AkashPriyadarshii/kharcha/main/android-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
    "name": "NeoFit",
    "description": "Neo Fit - a science-informed Indian health & fitness app (Kotlin/Compose). Calorie tracking for Indian foods, Health Connect, workouts, wellness. Free for non-commercial use.",
    "developer": "naveenneog",
@@ -2295,6 +2295,44 @@
    "stars": 2,
    "language": "Dart",
    "icon": "https://raw.githubusercontent.com/ujjwalsingh-1521/paipai/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
+   "name": "PyazLens",
+   "description": "AI-powered Android app for onion quality grading — detects, classifies, and grades onions (Healthy/Rotten/Damaged/Sprouted/Undersized) using YOLO11 segmentation, with bilingual (Hindi/English) PDF reports.",
+   "developer": "Dev-VardhanX",
+   "repo": "Dev-VardhanX/PyazLens",
+   "repo_url": "https://github.com/Dev-VardhanX/PyazLens",
+   "version": "v1.0.0",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 34418865,
+   "size_human": "32.8 MB",
+   "release_url": "https://github.com/Dev-VardhanX/PyazLens/releases/tag/v1.0.0",
+   "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "PyazLens.apk",
+     "size": 34418865,
+     "size_human": "32.8 MB",
+     "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "PyazLens.apk",
+     "size": 34418865,
+     "size_human": "32.8 MB",
+     "platform": "android",
+     "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk"
+    }
+   ],
+   "updated": "2026-09-18",
+   "license": "",
+   "stars": 2,
+   "language": "Jupyter Notebook",
+   "icon": "https://raw.githubusercontent.com/Dev-VardhanX/PyazLens/main/PyazLens/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
    "name": "Syntropy",
@@ -4177,37 +4215,37 @@
    "developer": "armaansidhus69",
    "repo": "armaansidhus69/punjabi-beats-android",
    "repo_url": "https://github.com/armaansidhus69/punjabi-beats-android",
-   "version": "v1.4.4",
+   "version": "v1.5.0",
    "platforms": [
     "android"
    ],
-   "file_size": 26304343,
+   "file_size": 26361410,
    "size_human": "25.1 MB",
-   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.4.4",
-   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk",
+   "release_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/tag/v1.5.0",
+   "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.5.0/punjabi-beats-v1.5.0-bitchord-ui.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "punjabi-beats-v1.4.4-full-redesign.apk",
-     "size": 26304343,
+     "name": "punjabi-beats-v1.5.0-bitchord-ui.apk",
+     "size": 26361410,
      "size_human": "25.1 MB",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.5.0/punjabi-beats-v1.5.0-bitchord-ui.apk"
     }
    ],
    "assets": [
     {
-     "name": "punjabi-beats-v1.4.4-full-redesign.apk",
-     "size": 26304343,
+     "name": "punjabi-beats-v1.5.0-bitchord-ui.apk",
+     "size": 26361410,
      "size_human": "25.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-full-redesign.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.5.0/punjabi-beats-v1.5.0-bitchord-ui.apk"
     },
     {
-     "name": "punjabi-beats-v1.4.4-latest.apk",
-     "size": 26304343,
+     "name": "PunjabiBeats-v1.5.0-debug.apk",
+     "size": 26361410,
      "size_human": "25.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.4.4/punjabi-beats-v1.4.4-latest.apk"
+     "download_url": "https://github.com/armaansidhus69/punjabi-beats-android/releases/download/v1.5.0/PunjabiBeats-v1.5.0-debug.apk"
     }
    ],
    "updated": "2026-11-20",
@@ -4215,44 +4253,6 @@
    "stars": 1,
    "language": "Kotlin",
    "icon": ""
-  },
-  {
-   "name": "PyazLens",
-   "description": "AI-powered Android app for onion quality grading — detects, classifies, and grades onions (Healthy/Rotten/Damaged/Sprouted/Undersized) using YOLO11 segmentation, with bilingual (Hindi/English) PDF reports.",
-   "developer": "Dev-VardhanX",
-   "repo": "Dev-VardhanX/PyazLens",
-   "repo_url": "https://github.com/Dev-VardhanX/PyazLens",
-   "version": "v1.0.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 34418865,
-   "size_human": "32.8 MB",
-   "release_url": "https://github.com/Dev-VardhanX/PyazLens/releases/tag/v1.0.0",
-   "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "PyazLens.apk",
-     "size": 34418865,
-     "size_human": "32.8 MB",
-     "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "PyazLens.apk",
-     "size": 34418865,
-     "size_human": "32.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/Dev-VardhanX/PyazLens/releases/download/v1.0.0/PyazLens.apk"
-    }
-   ],
-   "updated": "2026-09-18",
-   "license": "",
-   "stars": 1,
-   "language": "Jupyter Notebook",
-   "icon": "https://raw.githubusercontent.com/Dev-VardhanX/PyazLens/main/PyazLens/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
    "name": "Remedium",
@@ -5313,54 +5313,54 @@
    "developer": "ChandraChaan",
    "repo": "ChandraChaan/devalay",
    "repo_url": "https://github.com/ChandraChaan/devalay",
-   "version": "v1.2.0",
+   "version": "v1.5.0",
    "platforms": [
     "android"
    ],
-   "file_size": 26932385,
-   "size_human": "25.7 MB",
-   "release_url": "https://github.com/ChandraChaan/devalay/releases/tag/v1.2.0",
-   "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay-arm64-v8a.apk",
+   "file_size": 28694091,
+   "size_human": "27.4 MB",
+   "release_url": "https://github.com/ChandraChaan/devalay/releases/tag/v1.5.0",
+   "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay-arm64-v8a.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "devalay-arm64-v8a.apk",
-     "size": 26932385,
-     "size_human": "25.7 MB",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay-arm64-v8a.apk"
+     "size": 28694091,
+     "size_human": "27.4 MB",
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay-arm64-v8a.apk"
     }
    ],
    "assets": [
     {
      "name": "devalay-arm64-v8a.apk",
-     "size": 26932385,
-     "size_human": "25.7 MB",
+     "size": 28694091,
+     "size_human": "27.4 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay-arm64-v8a.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay-arm64-v8a.apk"
     },
     {
      "name": "devalay-armeabi-v7a.apk",
-     "size": 24689077,
-     "size_human": "23.5 MB",
+     "size": 26614627,
+     "size_human": "25.4 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay-armeabi-v7a.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay-armeabi-v7a.apk"
     },
     {
      "name": "devalay-x86_64.apk",
-     "size": 28521277,
-     "size_human": "27.2 MB",
+     "size": 30151911,
+     "size_human": "28.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay-x86_64.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay-x86_64.apk"
     },
     {
      "name": "devalay.apk",
-     "size": 69596583,
-     "size_human": "66.4 MB",
+     "size": 74798933,
+     "size_human": "71.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.2.0/devalay.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.0/devalay.apk"
     }
    ],
-   "updated": "2026-11-03",
+   "updated": "2026-11-21",
    "license": "NOASSERTION",
    "stars": 0,
    "language": "Dart",
@@ -6044,33 +6044,33 @@
    "developer": "RamSoft-by-RVPL",
    "repo": "bvmanas/iimm-buddy",
    "repo_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy",
-   "version": "v0.8.19",
+   "version": "v0.8.20",
    "platforms": [
     "android"
    ],
-   "file_size": 22838060,
+   "file_size": 22838158,
    "size_human": "21.8 MB",
-   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.19",
-   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk",
+   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.20",
+   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "IIMM-Buddy.apk",
-     "size": 22838060,
+     "size": 22838158,
      "size_human": "21.8 MB",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk"
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk"
     }
    ],
    "assets": [
     {
      "name": "IIMM-Buddy.apk",
-     "size": 22838060,
+     "size": 22838158,
      "size_human": "21.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.19/IIMM-Buddy.apk"
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk"
     }
    ],
-   "updated": "2026-11-19",
+   "updated": "2026-11-21",
    "license": "",
    "stars": 0,
    "language": "Dart",
@@ -8161,33 +8161,33 @@
    "developer": "dharmendra3840",
    "repo": "dharmendra3840/takkar-app",
    "repo_url": "https://github.com/dharmendra3840/takkar-app",
-   "version": "v0.11.0",
+   "version": "v0.11.2",
    "platforms": [
     "android"
    ],
-   "file_size": 7300919,
+   "file_size": 7312156,
    "size_human": "7.0 MB",
-   "release_url": "https://github.com/dharmendra3840/takkar-app/releases/tag/v0.11.0",
-   "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.0/Takkar-beta.apk",
+   "release_url": "https://github.com/dharmendra3840/takkar-app/releases/tag/v0.11.2",
+   "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.2/Takkar-beta.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "Takkar-beta.apk",
-     "size": 7300919,
+     "size": 7312156,
      "size_human": "7.0 MB",
-     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.0/Takkar-beta.apk"
+     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.2/Takkar-beta.apk"
     }
    ],
    "assets": [
     {
      "name": "Takkar-beta.apk",
-     "size": 7300919,
+     "size": 7312156,
      "size_human": "7.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.0/Takkar-beta.apk"
+     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.2/Takkar-beta.apk"
     }
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-20",
    "license": "",
    "stars": 0,
    "language": "",
