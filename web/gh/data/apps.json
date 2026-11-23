@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:26:53Z",
+ "generated": "2026-11-23T12:42:02Z",
  "source": "GitHub Releases",
  "count": 200,
  "apps": [
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-10-22",
    "license": "MIT",
-   "stars": 48500,
+   "stars": 48515,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5959,
+   "stars": 5969,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -1124,56 +1124,41 @@
    "description": "A small Android browser from GothwadTech.",
    "developer": "Bansify",
    "repo": "GothwadTech/browser",
-   "repo_url": "https://github.com/Bansify/internet",
-   "version": "v1.0.141",
+   "repo_url": "https://github.com/Bansify/browser",
+   "version": "v1.0.143",
    "platforms": [
-    "android",
-    "linux"
+    "android"
    ],
-   "file_size": 9029087,
-   "size_human": "8.6 MB",
-   "release_url": "https://github.com/Bansify/internet/releases/tag/v1.0.141",
-   "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk",
+   "file_size": 18246299,
+   "size_human": "17.4 MB",
+   "release_url": "https://github.com/Bansify/browser/releases/tag/v1.0.143",
+   "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "GothwadTVBrowser-v1.0.141-Debug.apk",
-     "size": 9029087,
-     "size_human": "8.6 MB",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk"
-    },
-    {
-     "platform": "linux",
-     "name": "gothwad-browser_1.0.141_all.deb",
-     "size": 1809664,
-     "size_human": "1.7 MB",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/gothwad-browser_1.0.141_all.deb"
+     "name": "BansifyBrowser-v1.0.143-Debug.apk",
+     "size": 18246299,
+     "size_human": "17.4 MB",
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk"
     }
    ],
    "assets": [
     {
-     "name": "GothwadTVBrowser-v1.0.141-Debug.apk",
-     "size": 9029087,
-     "size_human": "8.6 MB",
+     "name": "BansifyBrowser-v1.0.143-Debug.apk",
+     "size": 18246299,
+     "size_human": "17.4 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Debug.apk"
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk"
     },
     {
-     "name": "GothwadTVBrowser-v1.0.141-Release.apk",
-     "size": 4274551,
-     "size_human": "4.1 MB",
+     "name": "BansifyBrowser-v1.0.143-Release.apk",
+     "size": 12078870,
+     "size_human": "11.5 MB",
      "platform": "android",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/GothwadTVBrowser-v1.0.141-Release.apk"
-    },
-    {
-     "name": "gothwad-browser_1.0.141_all.deb",
-     "size": 1809664,
-     "size_human": "1.7 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/Bansify/internet/releases/download/v1.0.141/gothwad-browser_1.0.141_all.deb"
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Release.apk"
     }
    ],
-   "updated": "2026-11-21",
+   "updated": "2026-11-23",
    "license": "",
    "stars": 9,
    "language": "Kotlin",
@@ -4647,30 +4632,30 @@
    "developer": "bn-mullick-arena",
    "repo": "bn-mullick-arena/app",
    "repo_url": "https://github.com/bn-mullick-arena/app",
-   "version": "v20",
+   "version": "v21",
    "platforms": [
     "android"
    ],
-   "file_size": 70112556,
+   "file_size": 70112584,
    "size_human": "66.9 MB",
-   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v20",
-   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v20/BN-Mullick-Arena.apk",
+   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v21",
+   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "BN-Mullick-Arena.apk",
-     "size": 70112556,
+     "size": 70112584,
      "size_human": "66.9 MB",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v20/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk"
     }
    ],
    "assets": [
     {
      "name": "BN-Mullick-Arena.apk",
-     "size": 70112556,
+     "size": 70112584,
      "size_human": "66.9 MB",
      "platform": "android",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v20/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk"
     }
    ],
    "updated": "2026-11-22",
@@ -5313,54 +5298,54 @@
    "developer": "ChandraChaan",
    "repo": "ChandraChaan/devalay",
    "repo_url": "https://github.com/ChandraChaan/devalay",
-   "version": "v1.5.1",
+   "version": "v1.5.2",
    "platforms": [
     "android"
    ],
-   "file_size": 29865995,
-   "size_human": "28.5 MB",
-   "release_url": "https://github.com/ChandraChaan/devalay/releases/tag/v1.5.1",
-   "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay-arm64-v8a.apk",
+   "file_size": 29734923,
+   "size_human": "28.4 MB",
+   "release_url": "https://github.com/ChandraChaan/devalay/releases/tag/v1.5.2",
+   "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay-arm64-v8a.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "devalay-arm64-v8a.apk",
-     "size": 29865995,
-     "size_human": "28.5 MB",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay-arm64-v8a.apk"
+     "size": 29734923,
+     "size_human": "28.4 MB",
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay-arm64-v8a.apk"
     }
    ],
    "assets": [
     {
      "name": "devalay-arm64-v8a.apk",
-     "size": 29865995,
-     "size_human": "28.5 MB",
+     "size": 29734923,
+     "size_human": "28.4 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay-arm64-v8a.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay-arm64-v8a.apk"
     },
     {
      "name": "devalay-armeabi-v7a.apk",
-     "size": 27802911,
+     "size": 27770143,
      "size_human": "26.5 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay-armeabi-v7a.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay-armeabi-v7a.apk"
     },
     {
      "name": "devalay-x86_64.apk",
-     "size": 31389351,
+     "size": 31323815,
      "size_human": "29.9 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay-x86_64.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay-x86_64.apk"
     },
     {
      "name": "devalay.apk",
-     "size": 76052753,
-     "size_human": "72.5 MB",
+     "size": 75823377,
+     "size_human": "72.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.1/devalay.apk"
+     "download_url": "https://github.com/ChandraChaan/devalay/releases/download/v1.5.2/devalay.apk"
     }
    ],
-   "updated": "2026-11-22",
+   "updated": "2026-11-23",
    "license": "NOASSERTION",
    "stars": 0,
    "language": "Dart",
@@ -7819,33 +7804,33 @@
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "elderly-launcher-v1.8",
+   "version": "tamilan-store-v0.15",
    "platforms": [
     "android"
    ],
-   "file_size": 11538139,
-   "size_human": "11.0 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/elderly-launcher-v1.8",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/elderly-launcher-v1.8/Elderly-Launcher-v1.8.apk",
+   "file_size": 20713379,
+   "size_human": "19.8 MB",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/tamilan-store-v0.15",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Elderly-Launcher-v1.8.apk",
-     "size": 11538139,
-     "size_human": "11.0 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/elderly-launcher-v1.8/Elderly-Launcher-v1.8.apk"
+     "name": "Tamilan-Store-v0.15.apk",
+     "size": 20713379,
+     "size_human": "19.8 MB",
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk"
     }
    ],
    "assets": [
     {
-     "name": "Elderly-Launcher-v1.8.apk",
-     "size": 11538139,
-     "size_human": "11.0 MB",
+     "name": "Tamilan-Store-v0.15.apk",
+     "size": 20713379,
+     "size_human": "19.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/elderly-launcher-v1.8/Elderly-Launcher-v1.8.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk"
     }
    ],
-   "updated": "2026-11-21",
+   "updated": "2026-11-23",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
