@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T12:42:02Z",
+ "generated": "2026-11-24T13:45:23Z",
  "source": "GitHub Releases",
- "count": 200,
+ "count": 195,
  "apps": [
   {
    "name": "Bruno",
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-10-22",
    "license": "MIT",
-   "stars": 48515,
+   "stars": 48537,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5969,
+   "stars": 5972,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -290,7 +290,7 @@
    ],
    "updated": "2024-08-15",
    "license": "MIT",
-   "stars": 344,
+   "stars": 345,
    "language": "Dart",
    "icon": "https://raw.githubusercontent.com/kananinirav/Indian-IPTV-App/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -752,7 +752,7 @@
    ],
    "updated": "2026-10-22",
    "license": "GPL-3.0",
-   "stars": 19,
+   "stars": 21,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/AIM-IT4/kosh/main/fastlane/metadata/android/en-US/images/icon.png"
   },
@@ -762,33 +762,33 @@
    "developer": "irshadm",
    "repo": "irshadm/volta-android",
    "repo_url": "https://github.com/irshadm/volta-android",
-   "version": "v0.1.7",
+   "version": "v0.1.8",
    "platforms": [
     "android"
    ],
-   "file_size": 13443615,
+   "file_size": 13443619,
    "size_human": "12.8 MB",
-   "release_url": "https://github.com/irshadm/volta-android/releases/tag/v0.1.7",
-   "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk",
+   "release_url": "https://github.com/irshadm/volta-android/releases/tag/v0.1.8",
+   "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.8/volta.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "volta.apk",
-     "size": 13443615,
+     "size": 13443619,
      "size_human": "12.8 MB",
-     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
+     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.8/volta.apk"
     }
    ],
    "assets": [
     {
      "name": "volta.apk",
-     "size": 13443615,
+     "size": 13443619,
      "size_human": "12.8 MB",
      "platform": "android",
-     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.7/volta.apk"
+     "download_url": "https://github.com/irshadm/volta-android/releases/download/v0.1.8/volta.apk"
     }
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-23",
    "license": "Apache-2.0",
    "stars": 14,
    "language": "Kotlin",
@@ -907,6 +907,51 @@
    "stars": 13,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/shrikanth7698/INDIA-COVID-19-Tracker/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
+   "name": "Gothwad Browser",
+   "description": "A small Android browser from GothwadTech.",
+   "developer": "Bansify",
+   "repo": "GothwadTech/browser",
+   "repo_url": "https://github.com/Bansify/browser",
+   "version": "v1.0.148",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 18466072,
+   "size_human": "17.6 MB",
+   "release_url": "https://github.com/Bansify/browser/releases/tag/v1.0.148",
+   "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.148/BansifyBrowser-v1.0.148-Debug.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "BansifyBrowser-v1.0.148-Debug.apk",
+     "size": 18466072,
+     "size_human": "17.6 MB",
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.148/BansifyBrowser-v1.0.148-Debug.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "BansifyBrowser-v1.0.148-Debug.apk",
+     "size": 18466072,
+     "size_human": "17.6 MB",
+     "platform": "android",
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.148/BansifyBrowser-v1.0.148-Debug.apk"
+    },
+    {
+     "name": "BansifyBrowser-v1.0.148-Release.apk",
+     "size": 12279742,
+     "size_human": "11.7 MB",
+     "platform": "android",
+     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.148/BansifyBrowser-v1.0.148-Release.apk"
+    }
+   ],
+   "updated": "2026-11-24",
+   "license": "",
+   "stars": 12,
+   "language": "Kotlin",
+   "icon": "https://raw.githubusercontent.com/GothwadTech/browser/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "MentalHealthApp",
@@ -1118,51 +1163,6 @@
    "stars": 10,
    "language": "Python",
    "icon": "https://raw.githubusercontent.com/begoneeraj/Newsup/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
-   "name": "Gothwad Browser",
-   "description": "A small Android browser from GothwadTech.",
-   "developer": "Bansify",
-   "repo": "GothwadTech/browser",
-   "repo_url": "https://github.com/Bansify/browser",
-   "version": "v1.0.143",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 18246299,
-   "size_human": "17.4 MB",
-   "release_url": "https://github.com/Bansify/browser/releases/tag/v1.0.143",
-   "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "BansifyBrowser-v1.0.143-Debug.apk",
-     "size": 18246299,
-     "size_human": "17.4 MB",
-     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "BansifyBrowser-v1.0.143-Debug.apk",
-     "size": 18246299,
-     "size_human": "17.4 MB",
-     "platform": "android",
-     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Debug.apk"
-    },
-    {
-     "name": "BansifyBrowser-v1.0.143-Release.apk",
-     "size": 12078870,
-     "size_human": "11.5 MB",
-     "platform": "android",
-     "download_url": "https://github.com/Bansify/browser/releases/download/v1.0.143/BansifyBrowser-v1.0.143-Release.apk"
-    }
-   ],
-   "updated": "2026-11-23",
-   "license": "",
-   "stars": 9,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/GothwadTech/browser/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "Kerala Tv",
@@ -1526,33 +1526,33 @@
    "developer": "muthumanikandanb2005-ux",
    "repo": "muthumanikandanb2005-ux/Movix",
    "repo_url": "https://github.com/muthumanikandanb2005-ux/Movix",
-   "version": "v2.3.0",
+   "version": "v2.3.2",
    "platforms": [
     "android"
    ],
-   "file_size": 46456326,
-   "size_human": "44.3 MB",
-   "release_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/tag/v2.3.0",
-   "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.0/movix-app-v2.3.0.apk",
+   "file_size": 16001457,
+   "size_human": "15.3 MB",
+   "release_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/tag/v2.3.2",
+   "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.2/movix-app-v2.3.2.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "movix-app-v2.3.0.apk",
-     "size": 46456326,
-     "size_human": "44.3 MB",
-     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.0/movix-app-v2.3.0.apk"
+     "name": "movix-app-v2.3.2.apk",
+     "size": 16001457,
+     "size_human": "15.3 MB",
+     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.2/movix-app-v2.3.2.apk"
     }
    ],
    "assets": [
     {
-     "name": "movix-app-v2.3.0.apk",
-     "size": 46456326,
-     "size_human": "44.3 MB",
+     "name": "movix-app-v2.3.2.apk",
+     "size": 16001457,
+     "size_human": "15.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.0/movix-app-v2.3.0.apk"
+     "download_url": "https://github.com/muthumanikandanb2005-ux/Movix/releases/download/v2.3.2/movix-app-v2.3.2.apk"
     }
    ],
-   "updated": "2026-11-22",
+   "updated": "2026-11-24",
    "license": "",
    "stars": 5,
    "language": "TypeScript",
@@ -3331,6 +3331,109 @@
    "icon": "https://raw.githubusercontent.com/vishalsimar6701/Injustice/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Invoiceo",
+   "description": "Invoiceo: free offline billing and GST invoice software for Windows, macOS and Linux (based on Invoiso, MIT)",
+   "developer": "madhanprasath1307",
+   "repo": "madhanprasath1307/invoiceo",
+   "repo_url": "https://github.com/madhanprasath1307/invoiceo",
+   "version": "v1.0.14",
+   "platforms": [
+    "windows",
+    "macos",
+    "linux"
+   ],
+   "file_size": 19621365,
+   "size_human": "18.7 MB",
+   "release_url": "https://github.com/madhanprasath1307/invoiceo/releases/tag/v1.0.14",
+   "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe",
+   "downloads": [
+    {
+     "platform": "windows",
+     "name": "invoiceo-1.0.14-windows-setup.exe",
+     "size": 19621365,
+     "size_human": "18.7 MB",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe"
+    },
+    {
+     "platform": "macos",
+     "name": "invoiceo-1.0.14-macos.dmg",
+     "size": 34409113,
+     "size_human": "32.8 MB",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-macos.dmg"
+    },
+    {
+     "platform": "linux",
+     "name": "Invoiceo-1.0.14-x86_64.AppImage",
+     "size": 29821432,
+     "size_human": "28.4 MB",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-x86_64.AppImage"
+    }
+   ],
+   "assets": [
+    {
+     "name": "invoiceo-1.0.14-windows-setup.exe",
+     "size": 19621365,
+     "size_human": "18.7 MB",
+     "platform": "windows",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe"
+    },
+    {
+     "name": "Invoiceo-Setup-Windows.exe",
+     "size": 19621365,
+     "size_human": "18.7 MB",
+     "platform": "windows",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Setup-Windows.exe"
+    },
+    {
+     "name": "invoiceo-1.0.14-macos.dmg",
+     "size": 34409113,
+     "size_human": "32.8 MB",
+     "platform": "macos",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-macos.dmg"
+    },
+    {
+     "name": "Invoiceo-macOS.dmg",
+     "size": 34409113,
+     "size_human": "32.8 MB",
+     "platform": "macos",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-macOS.dmg"
+    },
+    {
+     "name": "Invoiceo-1.0.14-x86_64.AppImage",
+     "size": 29821432,
+     "size_human": "28.4 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-x86_64.AppImage"
+    },
+    {
+     "name": "Invoiceo-Linux.AppImage",
+     "size": 29821432,
+     "size_human": "28.4 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Linux.AppImage"
+    },
+    {
+     "name": "Invoiceo-1.0.14-ubuntu22.deb",
+     "size": 24798020,
+     "size_human": "23.6 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-ubuntu22.deb"
+    },
+    {
+     "name": "Invoiceo-Linux.deb",
+     "size": 24798020,
+     "size_human": "23.6 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Linux.deb"
+    }
+   ],
+   "updated": "2026-11-17",
+   "license": "MIT",
+   "stars": 1,
+   "language": "Dart",
+   "icon": "https://raw.githubusercontent.com/madhanprasath1307/invoiceo/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
    "name": "KavyaKanaja",
    "description": "A bilingual Kannada-English Android app to revive classical Kannada poetry for Gen-Z — Duolingo for Kannada Literature",
    "developer": "DragonBlade431",
@@ -3559,44 +3662,6 @@
    "icon": "https://raw.githubusercontent.com/nijatva/nijatva-browser/main/docs/icon-192.png"
   },
   {
-   "name": "Nijatva Browser Mini X",
-   "description": "Mini X - a privacy-first Android browser on the system WebView. Same engine and features as Nijatva, package com.nijatva.mini.x",
-   "developer": "nijatva",
-   "repo": "nijatva/nijatva-browser-mini-x",
-   "repo_url": "https://github.com/nijatva/nijatva-browser-mini-x",
-   "version": "latest",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 14282153,
-   "size_human": "13.6 MB",
-   "release_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/tag/latest",
-   "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "MiniX-debug.apk",
-     "size": 14282153,
-     "size_human": "13.6 MB",
-     "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "MiniX-debug.apk",
-     "size": 14282153,
-     "size_human": "13.6 MB",
-     "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-browser-mini-x/releases/download/latest/MiniX-debug.apk"
-    }
-   ],
-   "updated": "2026-11-14",
-   "license": "Apache-2.0",
-   "stars": 1,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/nijatva/nijatva-browser-mini-x/main/app/src/main/res/drawable-xxxhdpi/ic_nijatva_launcher.png"
-  },
-  {
    "name": "Nijatva Camera",
    "description": "Camera2 camera app for Android: manual controls, RAW, night stacking, exposure fusion, panorama. Package com.nijatva.camera.",
    "developer": "nijatva",
@@ -3716,44 +3781,6 @@
    "stars": 1,
    "language": "Java",
    "icon": ""
-  },
-  {
-   "name": "Nijatva Drive",
-   "description": "Nijatva Drive — a private, offline-first file vault for Android. Expo + React Native + TypeScript, with a Proton Drive-style UX and Nijatva's own design language.",
-   "developer": "nijatva",
-   "repo": "nijatva/nijatva-drive",
-   "repo_url": "https://github.com/nijatva/nijatva-drive",
-   "version": "v1.2.0-build.3",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 71794717,
-   "size_human": "68.5 MB",
-   "release_url": "https://github.com/nijatva/nijatva-drive/releases/tag/v1.2.0-build.3",
-   "download_url": "https://github.com/nijatva/nijatva-drive/releases/download/v1.2.0-build.3/nijatva-drive-1.2.0.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "nijatva-drive-1.2.0.apk",
-     "size": 71794717,
-     "size_human": "68.5 MB",
-     "download_url": "https://github.com/nijatva/nijatva-drive/releases/download/v1.2.0-build.3/nijatva-drive-1.2.0.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "nijatva-drive-1.2.0.apk",
-     "size": 71794717,
-     "size_human": "68.5 MB",
-     "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-drive/releases/download/v1.2.0-build.3/nijatva-drive-1.2.0.apk"
-    }
-   ],
-   "updated": "2026-10-31",
-   "license": "Apache-2.0",
-   "stars": 1,
-   "language": "TypeScript",
-   "icon": "https://raw.githubusercontent.com/nijatva/nijatva-drive/main/assets/icon.png"
   },
   {
    "name": "Nijatva Gallery",
@@ -3913,33 +3940,33 @@
    "developer": "nijatva",
    "repo": "nijatva/nijatva-photo-editor",
    "repo_url": "https://github.com/nijatva/nijatva-photo-editor",
-   "version": "v1.5.0",
+   "version": "v1.6.0",
    "platforms": [
     "android"
    ],
-   "file_size": 6518450,
+   "file_size": 6541338,
    "size_human": "6.2 MB",
-   "release_url": "https://github.com/nijatva/nijatva-photo-editor/releases/tag/v1.5.0",
-   "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.5.0/Nijatva-Editor-1.5.0.apk",
+   "release_url": "https://github.com/nijatva/nijatva-photo-editor/releases/tag/v1.6.0",
+   "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.6.0/Nijatva-Editor-1.6.0.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Nijatva-Editor-1.5.0.apk",
-     "size": 6518450,
+     "name": "Nijatva-Editor-1.6.0.apk",
+     "size": 6541338,
      "size_human": "6.2 MB",
-     "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.5.0/Nijatva-Editor-1.5.0.apk"
+     "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.6.0/Nijatva-Editor-1.6.0.apk"
     }
    ],
    "assets": [
     {
-     "name": "Nijatva-Editor-1.5.0.apk",
-     "size": 6518450,
+     "name": "Nijatva-Editor-1.6.0.apk",
+     "size": 6541338,
      "size_human": "6.2 MB",
      "platform": "android",
-     "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.5.0/Nijatva-Editor-1.5.0.apk"
+     "download_url": "https://github.com/nijatva/nijatva-photo-editor/releases/download/v1.6.0/Nijatva-Editor-1.6.0.apk"
     }
    ],
-   "updated": "2026-11-17",
+   "updated": "2026-11-24",
    "license": "Apache-2.0",
    "stars": 1,
    "language": "Kotlin",
@@ -4437,6 +4464,51 @@
    "icon": "https://raw.githubusercontent.com/vasudev-work/swadeshi-store-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Tally",
+   "description": "Private, offline Android money tracker: accounts, shared bills with friends, itemised receipt PDFs, budgets and on-device expense suggestions. No internet permission.",
+   "developer": "zack005-design",
+   "repo": "zack005-design/Tally",
+   "repo_url": "https://github.com/zack005-design/Tally",
+   "version": "v0.2.6-20261124",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 64604221,
+   "size_human": "61.6 MB",
+   "release_url": "https://github.com/zack005-design/Tally/releases/tag/v0.2.6-20261124",
+   "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "tally-0.2.6-ai-debug.apk",
+     "size": 64604221,
+     "size_human": "61.6 MB",
+     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "tally-0.2.6-ai-debug.apk",
+     "size": 64604221,
+     "size_human": "61.6 MB",
+     "platform": "android",
+     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk"
+    },
+    {
+     "name": "tally-0.2.6-non-ai-debug.apk",
+     "size": 60690089,
+     "size_human": "57.9 MB",
+     "platform": "android",
+     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-non-ai-debug.apk"
+    }
+   ],
+   "updated": "2026-11-24",
+   "license": "MIT",
+   "stars": 1,
+   "language": "Kotlin",
+   "icon": ""
+  },
+  {
    "name": "VisionMate V2",
    "description": "Android app for blind and low-vision users. Fully on-device: scene captioning (CLIP + trained decoder), obstacle warnings with distance (YOLO + MiDaS), OCR (ML Kit, Latin + Devanagari) and voice control in English/Hindi. Kotlin, TensorFlow Lite, no internet needed.",
    "developer": "ankushjha556",
@@ -4632,33 +4704,33 @@
    "developer": "bn-mullick-arena",
    "repo": "bn-mullick-arena/app",
    "repo_url": "https://github.com/bn-mullick-arena/app",
-   "version": "v21",
+   "version": "v22",
    "platforms": [
     "android"
    ],
-   "file_size": 70112584,
+   "file_size": 70148376,
    "size_human": "66.9 MB",
-   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v21",
-   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk",
+   "release_url": "https://github.com/bn-mullick-arena/app/releases/tag/v22",
+   "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v22/BN-Mullick-Arena.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "BN-Mullick-Arena.apk",
-     "size": 70112584,
+     "size": 70148376,
      "size_human": "66.9 MB",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v22/BN-Mullick-Arena.apk"
     }
    ],
    "assets": [
     {
      "name": "BN-Mullick-Arena.apk",
-     "size": 70112584,
+     "size": 70148376,
      "size_human": "66.9 MB",
      "platform": "android",
-     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v21/BN-Mullick-Arena.apk"
+     "download_url": "https://github.com/bn-mullick-arena/app/releases/download/v22/BN-Mullick-Arena.apk"
     }
    ],
-   "updated": "2026-11-22",
+   "updated": "2026-11-23",
    "license": "",
    "stars": 0,
    "language": "",
@@ -6138,109 +6210,6 @@
    "icon": "https://raw.githubusercontent.com/Mahicouragw/inter-ai-study-buddy/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
-   "name": "Invoiceo",
-   "description": "Invoiceo: free offline billing and GST invoice software for Windows, macOS and Linux (based on Invoiso, MIT)",
-   "developer": "madhanprasath1307",
-   "repo": "madhanprasath1307/invoiceo",
-   "repo_url": "https://github.com/madhanprasath1307/invoiceo",
-   "version": "v1.0.14",
-   "platforms": [
-    "windows",
-    "macos",
-    "linux"
-   ],
-   "file_size": 19621365,
-   "size_human": "18.7 MB",
-   "release_url": "https://github.com/madhanprasath1307/invoiceo/releases/tag/v1.0.14",
-   "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe",
-   "downloads": [
-    {
-     "platform": "windows",
-     "name": "invoiceo-1.0.14-windows-setup.exe",
-     "size": 19621365,
-     "size_human": "18.7 MB",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe"
-    },
-    {
-     "platform": "macos",
-     "name": "invoiceo-1.0.14-macos.dmg",
-     "size": 34409113,
-     "size_human": "32.8 MB",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-macos.dmg"
-    },
-    {
-     "platform": "linux",
-     "name": "Invoiceo-1.0.14-x86_64.AppImage",
-     "size": 29821432,
-     "size_human": "28.4 MB",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-x86_64.AppImage"
-    }
-   ],
-   "assets": [
-    {
-     "name": "invoiceo-1.0.14-windows-setup.exe",
-     "size": 19621365,
-     "size_human": "18.7 MB",
-     "platform": "windows",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-windows-setup.exe"
-    },
-    {
-     "name": "Invoiceo-Setup-Windows.exe",
-     "size": 19621365,
-     "size_human": "18.7 MB",
-     "platform": "windows",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Setup-Windows.exe"
-    },
-    {
-     "name": "invoiceo-1.0.14-macos.dmg",
-     "size": 34409113,
-     "size_human": "32.8 MB",
-     "platform": "macos",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/invoiceo-1.0.14-macos.dmg"
-    },
-    {
-     "name": "Invoiceo-macOS.dmg",
-     "size": 34409113,
-     "size_human": "32.8 MB",
-     "platform": "macos",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-macOS.dmg"
-    },
-    {
-     "name": "Invoiceo-1.0.14-x86_64.AppImage",
-     "size": 29821432,
-     "size_human": "28.4 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-x86_64.AppImage"
-    },
-    {
-     "name": "Invoiceo-Linux.AppImage",
-     "size": 29821432,
-     "size_human": "28.4 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Linux.AppImage"
-    },
-    {
-     "name": "Invoiceo-1.0.14-ubuntu22.deb",
-     "size": 24798020,
-     "size_human": "23.6 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-1.0.14-ubuntu22.deb"
-    },
-    {
-     "name": "Invoiceo-Linux.deb",
-     "size": 24798020,
-     "size_human": "23.6 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/madhanprasath1307/invoiceo/releases/download/v1.0.14/Invoiceo-Linux.deb"
-    }
-   ],
-   "updated": "2026-11-17",
-   "license": "MIT",
-   "stars": 0,
-   "language": "Dart",
-   "icon": "https://raw.githubusercontent.com/madhanprasath1307/invoiceo/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
    "name": "Janvaani Cyberguard India",
    "description": "JanVaani: cyber-safety app for India. Native Android, iOS, Windows and macOS apps, a Linux app, and SMS/voice scam checks for button phones.",
    "developer": "Apoorva2209",
@@ -6456,44 +6425,6 @@
    "stars": 0,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/indiser/KalRadio/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
-  },
-  {
-   "name": "Kavithai App Android",
-   "description": "Modern Tamil Kavithai & Kadhal Kavithai Android App built using Expo + React Native.",
-   "developer": "mskian",
-   "repo": "mskian/kavithai-app-android",
-   "repo_url": "https://github.com/mskian/kavithai-app-android",
-   "version": "v1.0.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 73224875,
-   "size_human": "69.8 MB",
-   "release_url": "https://github.com/mskian/kavithai-app-android/releases/tag/v1.0.0",
-   "download_url": "https://github.com/mskian/kavithai-app-android/releases/download/v1.0.0/kavithai-v1.0.0.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "kavithai-v1.0.0.apk",
-     "size": 73224875,
-     "size_human": "69.8 MB",
-     "download_url": "https://github.com/mskian/kavithai-app-android/releases/download/v1.0.0/kavithai-v1.0.0.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "kavithai-v1.0.0.apk",
-     "size": 73224875,
-     "size_human": "69.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/mskian/kavithai-app-android/releases/download/v1.0.0/kavithai-v1.0.0.apk"
-    }
-   ],
-   "updated": "2026-05-12",
-   "license": "MIT",
-   "stars": 0,
-   "language": "",
-   "icon": ""
   },
   {
    "name": "KayaSetu",
@@ -7412,44 +7343,6 @@
    "icon": "https://raw.githubusercontent.com/zenithblue-oss/openbill/main/branding/icons/openbill.png"
   },
   {
-   "name": "OwlCept",
-   "description": "Stops fake-CAPTCHA \"paste and run\" (ClickFix) and ConsentFix attacks at copy, paste and Enter, and explains them in plain English, Hindi and Kannada. Edge/Chrome extension, offline web checker, Android app; one zero-dependency TypeScript engine.",
-   "developer": "sidhy4rth",
-   "repo": "sidhy4rth/OwlCept",
-   "repo_url": "https://github.com/sidhy4rth/OwlCept",
-   "version": "v0.3.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 1315860,
-   "size_human": "1.3 MB",
-   "release_url": "https://github.com/sidhy4rth/OwlCept/releases/tag/v0.3.0",
-   "download_url": "https://github.com/sidhy4rth/OwlCept/releases/download/v0.3.0/OwlCept-android-v0.3.0-debug.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "OwlCept-android-v0.3.0-debug.apk",
-     "size": 1315860,
-     "size_human": "1.3 MB",
-     "download_url": "https://github.com/sidhy4rth/OwlCept/releases/download/v0.3.0/OwlCept-android-v0.3.0-debug.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "OwlCept-android-v0.3.0-debug.apk",
-     "size": 1315860,
-     "size_human": "1.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/sidhy4rth/OwlCept/releases/download/v0.3.0/OwlCept-android-v0.3.0-debug.apk"
-    }
-   ],
-   "updated": "2026-10-05",
-   "license": "MIT",
-   "stars": 0,
-   "language": "TypeScript",
-   "icon": "https://raw.githubusercontent.com/sidhy4rth/OwlCept/main/extension/static/icons/owl-16.png"
-  },
-  {
    "name": "Paattu Music Player",
    "description": "Malayalam & Tamil music: Omarchy bar/desktop/app + CLI on Linux, with Windows and Android apps. YouTube playlists, JioSaavn 320 kbps, SoundCloud.",
    "developer": "sudharamachandranrajeev",
@@ -7761,76 +7654,38 @@
    "icon": "https://raw.githubusercontent.com/TarunAaryan/raithavarta-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
-   "name": "Resq Kerala",
-   "description": "RESQ KERALA — Disaster Management & Emergency Response Android App",
-   "developer": "athulshibu1607-commits",
-   "repo": "athulshibu1607-commits/resq-kerala",
-   "repo_url": "https://github.com/athulshibu1607-commits/resq-kerala",
-   "version": "v1.0.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 3425205,
-   "size_human": "3.3 MB",
-   "release_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/tag/v1.0.0",
-   "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "resq-kerala-v1.0.0.apk",
-     "size": 3425205,
-     "size_human": "3.3 MB",
-     "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "resq-kerala-v1.0.0.apk",
-     "size": 3425205,
-     "size_human": "3.3 MB",
-     "platform": "android",
-     "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk"
-    }
-   ],
-   "updated": "2026-10-30",
-   "license": "",
-   "stars": 0,
-   "language": "TypeScript",
-   "icon": "https://raw.githubusercontent.com/athulshibu1607-commits/resq-kerala/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
    "name": "RP Android Apps",
    "description": "RP-Android-Apps by Rameshprathap R (@universalrp2003) — Official Tamil & English open-source Android apps: SMS Guard (குறுஞ்செய்தி காவலன்), Live Guard, Ramesh Radio, Oor Arivippu (ஊர் அறிவிப்பு), PulseEQ, RP Vocal Remover Studio, Secret Message, Expense Tracker, Voice Notes, Vasanthi AI (வசந்தி A...",
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "tamilan-store-v0.15",
+   "version": "sms-guard-v1.1.18",
    "platforms": [
     "android"
    ],
-   "file_size": 20713379,
-   "size_human": "19.8 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/tamilan-store-v0.15",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk",
+   "file_size": 12873680,
+   "size_human": "12.3 MB",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/sms-guard-v1.1.18",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Tamilan-Store-v0.15.apk",
-     "size": 20713379,
-     "size_human": "19.8 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk"
+     "name": "SMS-Guard-v1.1.18.apk",
+     "size": 12873680,
+     "size_human": "12.3 MB",
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk"
     }
    ],
    "assets": [
     {
-     "name": "Tamilan-Store-v0.15.apk",
-     "size": 20713379,
-     "size_human": "19.8 MB",
+     "name": "SMS-Guard-v1.1.18.apk",
+     "size": 12873680,
+     "size_human": "12.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tamilan-store-v0.15/Tamilan-Store-v0.15.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk"
     }
    ],
-   "updated": "2026-11-23",
+   "updated": "2026-11-24",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
@@ -8176,51 +8031,6 @@
    "license": "",
    "stars": 0,
    "language": "",
-   "icon": ""
-  },
-  {
-   "name": "Tally",
-   "description": "Private, offline Android money tracker: accounts, shared bills with friends, itemised receipt PDFs, budgets and on-device expense suggestions. No internet permission.",
-   "developer": "zack005-design",
-   "repo": "zack005-design/Tally",
-   "repo_url": "https://github.com/zack005-design/Tally",
-   "version": "v0.2.4-20261115",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 63803548,
-   "size_human": "60.8 MB",
-   "release_url": "https://github.com/zack005-design/Tally/releases/tag/v0.2.4-20261115",
-   "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.4-20261115/tally-0.2.4-ai-debug.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "tally-0.2.4-ai-debug.apk",
-     "size": 63803548,
-     "size_human": "60.8 MB",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.4-20261115/tally-0.2.4-ai-debug.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "tally-0.2.4-ai-debug.apk",
-     "size": 63803548,
-     "size_human": "60.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.4-20261115/tally-0.2.4-ai-debug.apk"
-    },
-    {
-     "name": "tally-0.2.4-non-ai-debug.apk",
-     "size": 63803248,
-     "size_human": "60.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.4-20261115/tally-0.2.4-non-ai-debug.apk"
-    }
-   ],
-   "updated": "2026-11-15",
-   "license": "",
-   "stars": 0,
-   "language": "Kotlin",
    "icon": ""
   },
   {
