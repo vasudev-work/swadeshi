@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:45:23Z",
+ "generated": "2026-11-25T12:57:43Z",
  "source": "GitHub Releases",
  "count": 195,
  "apps": [
@@ -9,142 +9,142 @@
    "developer": "usebruno",
    "repo": "usebruno/bruno",
    "repo_url": "https://github.com/usebruno/bruno",
-   "version": "v4.3.0",
+   "version": "v4.4.0",
    "platforms": [
     "windows",
     "macos",
     "linux"
    ],
-   "file_size": 131194880,
-   "size_human": "125.1 MB",
-   "release_url": "https://github.com/usebruno/bruno/releases/tag/v4.3.0",
-   "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_win.msi",
+   "file_size": 153071616,
+   "size_human": "146.0 MB",
+   "release_url": "https://github.com/usebruno/bruno/releases/tag/v4.4.0",
+   "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_win.msi",
    "downloads": [
     {
      "platform": "windows",
-     "name": "bruno_4.3.0_arm64_win.msi",
-     "size": 131194880,
-     "size_human": "125.1 MB",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_win.msi"
+     "name": "bruno_4.4.0_arm64_win.msi",
+     "size": 153071616,
+     "size_human": "146.0 MB",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_win.msi"
     },
     {
      "platform": "macos",
-     "name": "bruno_4.3.0_arm64_mac.dmg",
-     "size": 167922780,
-     "size_human": "160.1 MB",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_mac.dmg"
+     "name": "bruno_4.4.0_arm64_mac.pkg",
+     "size": 183257952,
+     "size_human": "174.8 MB",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_mac.pkg"
     },
     {
      "platform": "linux",
-     "name": "bruno_4.3.0_arm64_linux.AppImage",
-     "size": 174824359,
-     "size_human": "166.7 MB",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_linux.AppImage"
+     "name": "bruno_4.4.0_arm64_linux.AppImage",
+     "size": 174973185,
+     "size_human": "166.9 MB",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_linux.AppImage"
     }
    ],
    "assets": [
     {
-     "name": "bruno_4.3.0_arm64_win.msi",
-     "size": 131194880,
-     "size_human": "125.1 MB",
+     "name": "bruno_4.4.0_arm64_win.msi",
+     "size": 153071616,
+     "size_human": "146.0 MB",
      "platform": "windows",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_win.msi"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_win.msi"
     },
     {
-     "name": "bruno_4.3.0_arm64_win.exe",
-     "size": 124875784,
-     "size_human": "119.1 MB",
+     "name": "bruno_4.4.0_arm64_win.exe",
+     "size": 145312152,
+     "size_human": "138.6 MB",
      "platform": "windows",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_win.exe"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_win.exe"
     },
     {
-     "name": "bruno_4.3.0_x64_win.msi",
-     "size": 135000064,
-     "size_human": "128.7 MB",
+     "name": "bruno_4.4.0_x64_win.msi",
+     "size": 157818880,
+     "size_human": "150.5 MB",
      "platform": "windows",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x64_win.msi"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x64_win.msi"
     },
     {
-     "name": "bruno_4.3.0_x64_win.exe",
-     "size": 123071368,
-     "size_human": "117.4 MB",
+     "name": "bruno_4.4.0_x64_win.exe",
+     "size": 149932640,
+     "size_human": "143.0 MB",
      "platform": "windows",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x64_win.exe"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x64_win.exe"
     },
     {
-     "name": "bruno_4.3.0_arm64_mac.dmg",
-     "size": 167922780,
-     "size_human": "160.1 MB",
+     "name": "bruno_4.4.0_arm64_mac.pkg",
+     "size": 183257952,
+     "size_human": "174.8 MB",
      "platform": "macos",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_mac.dmg"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_mac.pkg"
     },
     {
-     "name": "bruno_4.3.0_arm64_mac.pkg",
-     "size": 167893394,
-     "size_human": "160.1 MB",
+     "name": "bruno_4.4.0_arm64_mac.dmg",
+     "size": 183254552,
+     "size_human": "174.8 MB",
      "platform": "macos",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_mac.pkg"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_mac.dmg"
     },
     {
-     "name": "bruno_4.3.0_x64_mac.pkg",
-     "size": 174366923,
-     "size_human": "166.3 MB",
+     "name": "bruno_4.4.0_x64_mac.pkg",
+     "size": 189402256,
+     "size_human": "180.6 MB",
      "platform": "macos",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x64_mac.pkg"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x64_mac.pkg"
     },
     {
-     "name": "bruno_4.3.0_x64_mac.dmg",
-     "size": 174223094,
-     "size_human": "166.2 MB",
+     "name": "bruno_4.4.0_x64_mac.dmg",
+     "size": 189303514,
+     "size_human": "180.5 MB",
      "platform": "macos",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x64_mac.dmg"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x64_mac.dmg"
     },
     {
-     "name": "bruno_4.3.0_arm64_linux.AppImage",
-     "size": 174824359,
+     "name": "bruno_4.4.0_arm64_linux.AppImage",
+     "size": 174973185,
+     "size_human": "166.9 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_linux.AppImage"
+    },
+    {
+     "name": "bruno_4.4.0_arm64_linux.deb",
+     "size": 135438572,
+     "size_human": "129.2 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_linux.deb"
+    },
+    {
+     "name": "bruno_4.4.0_aarch64_linux.rpm",
+     "size": 112181869,
+     "size_human": "107.0 MB",
+     "platform": "linux",
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_aarch64_linux.rpm"
+    },
+    {
+     "name": "bruno_4.4.0_x86_64_linux.AppImage",
+     "size": 174813608,
      "size_human": "166.7 MB",
      "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_linux.AppImage"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x86_64_linux.AppImage"
     },
     {
-     "name": "bruno_4.3.0_aarch64_linux.rpm",
-     "size": 101760141,
-     "size_human": "97.0 MB",
+     "name": "bruno_4.4.0_x86_64_linux.rpm",
+     "size": 116831785,
+     "size_human": "111.4 MB",
      "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_aarch64_linux.rpm"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x86_64_linux.rpm"
     },
     {
-     "name": "bruno_4.3.0_arm64_linux.deb",
-     "size": 100324850,
-     "size_human": "95.7 MB",
+     "name": "bruno_4.4.0_amd64_linux.deb",
+     "size": 140592708,
+     "size_human": "134.1 MB",
      "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_arm64_linux.deb"
-    },
-    {
-     "name": "bruno_4.3.0_x86_64_linux.AppImage",
-     "size": 174598148,
-     "size_human": "166.5 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x86_64_linux.AppImage"
-    },
-    {
-     "name": "bruno_4.3.0_x86_64_linux.rpm",
-     "size": 107304597,
-     "size_human": "102.3 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x86_64_linux.rpm"
-    },
-    {
-     "name": "bruno_4.3.0_amd64_linux.deb",
-     "size": 105317598,
-     "size_human": "100.4 MB",
-     "platform": "linux",
-     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_amd64_linux.deb"
+     "download_url": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_amd64_linux.deb"
     }
    ],
-   "updated": "2026-10-22",
+   "updated": "2026-11-24",
    "license": "MIT",
-   "stars": 48537,
+   "stars": 48558,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5972,
+   "stars": 5978,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -328,7 +328,7 @@
    ],
    "updated": "2026-10-14",
    "license": "MIT",
-   "stars": 162,
+   "stars": 163,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/coding-parrot/pothole-reporter/main/android-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -1113,6 +1113,44 @@
    "icon": "https://raw.githubusercontent.com/mehatab/covid-19/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Kerala Tv",
+   "description": "A minimal, remote-first Android TV app for live Malayalam TV — YouTube Live news channels plus free IPTV streams, with self-healing links and no clutter.",
+   "developer": "harinxrn",
+   "repo": "harinxrn/kerala-tv",
+   "repo_url": "https://github.com/harinxrn/kerala-tv",
+   "version": "v2.7.0",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 153061,
+   "size_human": "149 KB",
+   "release_url": "https://github.com/harinxrn/kerala-tv/releases/tag/v2.7.0",
+   "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "KeralaTv-v2.7.0.apk",
+     "size": 153061,
+     "size_human": "149 KB",
+     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "KeralaTv-v2.7.0.apk",
+     "size": 153061,
+     "size_human": "149 KB",
+     "platform": "android",
+     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
+    }
+   ],
+   "updated": "2026-11-21",
+   "license": "Unlicense",
+   "stars": 10,
+   "language": "Java",
+   "icon": "https://raw.githubusercontent.com/harinxrn/kerala-tv/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
    "name": "Newsup",
    "description": "AI fact-checker and crisis tracker for Indian news — Groq/Llama claim verification, RTI & NEET crisis timelines, built with Flutter + Supabase",
    "developer": "begoneeraj",
@@ -1163,44 +1201,6 @@
    "stars": 10,
    "language": "Python",
    "icon": "https://raw.githubusercontent.com/begoneeraj/Newsup/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-  },
-  {
-   "name": "Kerala Tv",
-   "description": "A minimal, remote-first Android TV app for live Malayalam TV — YouTube Live news channels plus free IPTV streams, with self-healing links and no clutter.",
-   "developer": "harinxrn",
-   "repo": "harinxrn/kerala-tv",
-   "repo_url": "https://github.com/harinxrn/kerala-tv",
-   "version": "v2.7.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 153061,
-   "size_human": "149 KB",
-   "release_url": "https://github.com/harinxrn/kerala-tv/releases/tag/v2.7.0",
-   "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "KeralaTv-v2.7.0.apk",
-     "size": 153061,
-     "size_human": "149 KB",
-     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "KeralaTv-v2.7.0.apk",
-     "size": 153061,
-     "size_human": "149 KB",
-     "platform": "android",
-     "download_url": "https://github.com/harinxrn/kerala-tv/releases/download/v2.7.0/KeralaTv-v2.7.0.apk"
-    }
-   ],
-   "updated": "2026-11-21",
-   "license": "Unlicense",
-   "stars": 9,
-   "language": "Java",
-   "icon": "https://raw.githubusercontent.com/harinxrn/kerala-tv/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
    "name": "Speechflow   Android Text To Speech App",
@@ -6058,76 +6058,38 @@
    "icon": "https://raw.githubusercontent.com/Skanda-P-R/HoraJnana-Android-App/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
-   "name": "Html Bangla",
-   "description": "Offline Android app teaching HSC ICT Chapter 4 (Web Design & HTML) in Bengali — live split-view code editor, 21-question quiz, bookmarks & progress tracking. Built with Kotlin + Jetpack Compose.",
-   "developer": "RuHRabin",
-   "repo": "RuHRabin/html-bangla",
-   "repo_url": "https://github.com/RuHRabin/html-bangla",
-   "version": "v1.0.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 11362712,
-   "size_human": "10.8 MB",
-   "release_url": "https://github.com/RuHRabin/html-bangla/releases/tag/v1.0.0",
-   "download_url": "https://github.com/RuHRabin/html-bangla/releases/download/v1.0.0/Learn_HSC_HTML.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "Learn_HSC_HTML.apk",
-     "size": 11362712,
-     "size_human": "10.8 MB",
-     "download_url": "https://github.com/RuHRabin/html-bangla/releases/download/v1.0.0/Learn_HSC_HTML.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "Learn_HSC_HTML.apk",
-     "size": 11362712,
-     "size_human": "10.8 MB",
-     "platform": "android",
-     "download_url": "https://github.com/RuHRabin/html-bangla/releases/download/v1.0.0/Learn_HSC_HTML.apk"
-    }
-   ],
-   "updated": "2026-09-20",
-   "license": "MIT",
-   "stars": 0,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/RuHRabin/html-bangla/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
-  },
-  {
    "name": "Iimm Buddy",
    "description": "Android app for IIM Mumbai students: attendance, class reminders, Moodle notes and a leave planner. Student project, not official.",
    "developer": "RamSoft-by-RVPL",
    "repo": "bvmanas/iimm-buddy",
    "repo_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy",
-   "version": "v0.8.20",
+   "version": "v0.9.0",
    "platforms": [
     "android"
    ],
-   "file_size": 22838158,
-   "size_human": "21.8 MB",
-   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.8.20",
-   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk",
+   "file_size": 23035010,
+   "size_human": "22.0 MB",
+   "release_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/tag/v0.9.0",
+   "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.9.0/IIMM-Buddy.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "IIMM-Buddy.apk",
-     "size": 22838158,
-     "size_human": "21.8 MB",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk"
+     "size": 23035010,
+     "size_human": "22.0 MB",
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.9.0/IIMM-Buddy.apk"
     }
    ],
    "assets": [
     {
      "name": "IIMM-Buddy.apk",
-     "size": 22838158,
-     "size_human": "21.8 MB",
+     "size": 23035010,
+     "size_human": "22.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.8.20/IIMM-Buddy.apk"
+     "download_url": "https://github.com/RamSoft-by-RVPL/iimm-buddy/releases/download/v0.9.0/IIMM-Buddy.apk"
     }
    ],
-   "updated": "2026-11-21",
+   "updated": "2026-11-25",
    "license": "",
    "stars": 0,
    "language": "Dart",
@@ -7654,38 +7616,76 @@
    "icon": "https://raw.githubusercontent.com/TarunAaryan/raithavarta-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
   },
   {
+   "name": "Resq Kerala",
+   "description": "RESQ KERALA — Disaster Management & Emergency Response Android App",
+   "developer": "athulshibu1607-commits",
+   "repo": "athulshibu1607-commits/resq-kerala",
+   "repo_url": "https://github.com/athulshibu1607-commits/resq-kerala",
+   "version": "v1.0.0",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 3425205,
+   "size_human": "3.3 MB",
+   "release_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/tag/v1.0.0",
+   "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "resq-kerala-v1.0.0.apk",
+     "size": 3425205,
+     "size_human": "3.3 MB",
+     "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "resq-kerala-v1.0.0.apk",
+     "size": 3425205,
+     "size_human": "3.3 MB",
+     "platform": "android",
+     "download_url": "https://github.com/athulshibu1607-commits/resq-kerala/releases/download/v1.0.0/resq-kerala-v1.0.0.apk"
+    }
+   ],
+   "updated": "2026-10-30",
+   "license": "",
+   "stars": 0,
+   "language": "TypeScript",
+   "icon": "https://raw.githubusercontent.com/athulshibu1607-commits/resq-kerala/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
    "name": "RP Android Apps",
    "description": "RP-Android-Apps by Rameshprathap R (@universalrp2003) — Official Tamil & English open-source Android apps: SMS Guard (குறுஞ்செய்தி காவலன்), Live Guard, Ramesh Radio, Oor Arivippu (ஊர் அறிவிப்பு), PulseEQ, RP Vocal Remover Studio, Secret Message, Expense Tracker, Voice Notes, Vasanthi AI (வசந்தி A...",
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "sms-guard-v1.1.18",
+   "version": "tvguard-v1.5.3",
    "platforms": [
     "android"
    ],
-   "file_size": 12873680,
-   "size_human": "12.3 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/sms-guard-v1.1.18",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk",
+   "file_size": 11900631,
+   "size_human": "11.3 MB",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/tvguard-v1.5.3",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "SMS-Guard-v1.1.18.apk",
-     "size": 12873680,
-     "size_human": "12.3 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk"
+     "name": "Android-TV-Guard-v1.5.3.apk",
+     "size": 11900631,
+     "size_human": "11.3 MB",
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk"
     }
    ],
    "assets": [
     {
-     "name": "SMS-Guard-v1.1.18.apk",
-     "size": 12873680,
-     "size_human": "12.3 MB",
+     "name": "Android-TV-Guard-v1.5.3.apk",
+     "size": 11900631,
+     "size_human": "11.3 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/sms-guard-v1.1.18/SMS-Guard-v1.1.18.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk"
     }
    ],
-   "updated": "2026-11-24",
+   "updated": "2026-11-25",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
