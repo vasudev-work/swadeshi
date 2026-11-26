@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T12:57:43Z",
+ "generated": "2026-11-26T12:35:27Z",
  "source": "GitHub Releases",
  "count": 195,
  "apps": [
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-11-24",
    "license": "MIT",
-   "stars": 48558,
+   "stars": 48578,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5978,
+   "stars": 5984,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -290,7 +290,7 @@
    ],
    "updated": "2024-08-15",
    "license": "MIT",
-   "stars": 345,
+   "stars": 347,
    "language": "Dart",
    "icon": "https://raw.githubusercontent.com/kananinirav/Indian-IPTV-App/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -517,7 +517,7 @@
    ],
    "updated": "2026-10-12",
    "license": "AGPL-3.0",
-   "stars": 49,
+   "stars": 50,
    "language": "HTML",
    "icon": "https://raw.githubusercontent.com/xanb-ship-it/RezeDesign-Mobile/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -707,7 +707,7 @@
    ],
    "updated": "2026-09-17",
    "license": "MIT",
-   "stars": 27,
+   "stars": 26,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/PyPiSan/Sanchitra/master/tv/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -1203,6 +1203,44 @@
    "icon": "https://raw.githubusercontent.com/begoneeraj/Newsup/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Kotoba Learn",
+   "description": "Kotoba — a free, offline-first language-learning Android app. Learn any of 12 languages (Japanese, English, Spanish, Hindi, Arabic…) with everything explained in your own language: vocabulary, example sentences, grammar patterns, roleplay, an offline dictionary and spaced repetition. Signed APK r...",
+   "developer": "codegeasse1",
+   "repo": "codegeasse1/kotoba-learn",
+   "repo_url": "https://github.com/codegeasse1/kotoba-learn",
+   "version": "v1.18.2",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 29241006,
+   "size_human": "27.9 MB",
+   "release_url": "https://github.com/codegeasse1/kotoba-learn/releases/tag/v1.18.2",
+   "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "app-release.apk",
+     "size": 29241006,
+     "size_human": "27.9 MB",
+     "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "size": 29241006,
+     "size_human": "27.9 MB",
+     "platform": "android",
+     "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk"
+    }
+   ],
+   "updated": "2026-09-14",
+   "license": "MIT",
+   "stars": 9,
+   "language": "Kotlin",
+   "icon": "https://raw.githubusercontent.com/codegeasse1/kotoba-learn/main/app/src/main/res/drawable-nodpi/ic_launcher_foreground.png"
+  },
+  {
    "name": "Speechflow   Android Text To Speech App",
    "description": "speechFlow — High-performance Android Text-to-Speech (TTS) engine with Eloquence / IBM TTS voice, authentic Hindi & Urdu support, ECI v6.1 engine, and 16 kHz audio for TalkBack & screen readers.",
    "developer": "Sharib20006",
@@ -1253,44 +1291,6 @@
    "stars": 9,
    "language": "",
    "icon": ""
-  },
-  {
-   "name": "Kotoba Learn",
-   "description": "Kotoba — a free, offline-first language-learning Android app. Learn any of 12 languages (Japanese, English, Spanish, Hindi, Arabic…) with everything explained in your own language: vocabulary, example sentences, grammar patterns, roleplay, an offline dictionary and spaced repetition. Signed APK r...",
-   "developer": "codegeasse1",
-   "repo": "codegeasse1/kotoba-learn",
-   "repo_url": "https://github.com/codegeasse1/kotoba-learn",
-   "version": "v1.18.2",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 29241006,
-   "size_human": "27.9 MB",
-   "release_url": "https://github.com/codegeasse1/kotoba-learn/releases/tag/v1.18.2",
-   "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "app-release.apk",
-     "size": 29241006,
-     "size_human": "27.9 MB",
-     "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "app-release.apk",
-     "size": 29241006,
-     "size_human": "27.9 MB",
-     "platform": "android",
-     "download_url": "https://github.com/codegeasse1/kotoba-learn/releases/download/v1.18.2/app-release.apk"
-    }
-   ],
-   "updated": "2026-09-14",
-   "license": "MIT",
-   "stars": 8,
-   "language": "Kotlin",
-   "icon": "https://raw.githubusercontent.com/codegeasse1/kotoba-learn/main/app/src/main/res/drawable-nodpi/ic_launcher_foreground.png"
   },
   {
    "name": "Krishi Mitra",
@@ -1898,6 +1898,44 @@
    "icon": "https://raw.githubusercontent.com/gauravxdhingra/Saukhyam-VaccineTracker/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
+   "name": "Aangan",
+   "description": "Ad-free, private launcher (home screen) for Android TV and Google TV. A dock of your four apps, weather and air quality (India CPCB AQI), Indian festival countdowns and scenes, family birthdays, setup by phone QR code. No ads, analytics, accounts or location permission. Open source, about 150 KB.",
+   "developer": "vaari-dev",
+   "repo": "vaari-dev/aangan",
+   "repo_url": "https://github.com/vaari-dev/aangan",
+   "version": "v1.4.0",
+   "platforms": [
+    "android"
+   ],
+   "file_size": 268404,
+   "size_human": "262 KB",
+   "release_url": "https://github.com/vaari-dev/aangan/releases/tag/v1.4.0",
+   "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk",
+   "downloads": [
+    {
+     "platform": "android",
+     "name": "aangan.apk",
+     "size": 268404,
+     "size_human": "262 KB",
+     "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk"
+    }
+   ],
+   "assets": [
+    {
+     "name": "aangan.apk",
+     "size": 268404,
+     "size_human": "262 KB",
+     "platform": "android",
+     "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk"
+    }
+   ],
+   "updated": "2026-10-31",
+   "license": "MIT",
+   "stars": 2,
+   "language": "Java",
+   "icon": "https://raw.githubusercontent.com/vaari-dev/aangan/main/docs/icon.png"
+  },
+  {
    "name": "ALWAYSWISPR",
    "description": "Free, open-source Wispr Flow alternative. Voice typing for Windows, macOS, Linux & Android. Hinglish, Hindi, English + 25 languages. Works in any app, private, no account (Groq Whisper).",
    "developer": "DeepuExplainsAi",
@@ -2394,44 +2432,6 @@
    "stars": 2,
    "language": "Java",
    "icon": ""
-  },
-  {
-   "name": "Aangan",
-   "description": "Ad-free, private launcher (home screen) for Android TV and Google TV. A dock of your four apps, weather and air quality (India CPCB AQI), Indian festival countdowns and scenes, family birthdays, setup by phone QR code. No ads, analytics, accounts or location permission. Open source, about 150 KB.",
-   "developer": "vaari-dev",
-   "repo": "vaari-dev/aangan",
-   "repo_url": "https://github.com/vaari-dev/aangan",
-   "version": "v1.4.0",
-   "platforms": [
-    "android"
-   ],
-   "file_size": 268404,
-   "size_human": "262 KB",
-   "release_url": "https://github.com/vaari-dev/aangan/releases/tag/v1.4.0",
-   "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk",
-   "downloads": [
-    {
-     "platform": "android",
-     "name": "aangan.apk",
-     "size": 268404,
-     "size_human": "262 KB",
-     "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk"
-    }
-   ],
-   "assets": [
-    {
-     "name": "aangan.apk",
-     "size": 268404,
-     "size_human": "262 KB",
-     "platform": "android",
-     "download_url": "https://github.com/vaari-dev/aangan/releases/download/v1.4.0/aangan.apk"
-    }
-   ],
-   "updated": "2026-10-31",
-   "license": "MIT",
-   "stars": 1,
-   "language": "Java",
-   "icon": "https://raw.githubusercontent.com/vaari-dev/aangan/main/docs/icon.png"
   },
   {
    "name": "AasaanHindi Keyboard App",
@@ -4469,40 +4469,33 @@
    "developer": "zack005-design",
    "repo": "zack005-design/Tally",
    "repo_url": "https://github.com/zack005-design/Tally",
-   "version": "v0.2.6-20261124",
+   "version": "v0.2.7-20261126",
    "platforms": [
     "android"
    ],
-   "file_size": 64604221,
-   "size_human": "61.6 MB",
-   "release_url": "https://github.com/zack005-design/Tally/releases/tag/v0.2.6-20261124",
-   "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk",
+   "file_size": 69796742,
+   "size_human": "66.6 MB",
+   "release_url": "https://github.com/zack005-design/Tally/releases/tag/v0.2.7-20261126",
+   "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.7-20261126/tally-0.2.7-debug.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "tally-0.2.6-ai-debug.apk",
-     "size": 64604221,
-     "size_human": "61.6 MB",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk"
+     "name": "tally-0.2.7-debug.apk",
+     "size": 69796742,
+     "size_human": "66.6 MB",
+     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.7-20261126/tally-0.2.7-debug.apk"
     }
    ],
    "assets": [
     {
-     "name": "tally-0.2.6-ai-debug.apk",
-     "size": 64604221,
-     "size_human": "61.6 MB",
+     "name": "tally-0.2.7-debug.apk",
+     "size": 69796742,
+     "size_human": "66.6 MB",
      "platform": "android",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-ai-debug.apk"
-    },
-    {
-     "name": "tally-0.2.6-non-ai-debug.apk",
-     "size": 60690089,
-     "size_human": "57.9 MB",
-     "platform": "android",
-     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.6-20261124/tally-0.2.6-non-ai-debug.apk"
+     "download_url": "https://github.com/zack005-design/Tally/releases/download/v0.2.7-20261126/tally-0.2.7-debug.apk"
     }
    ],
-   "updated": "2026-11-24",
+   "updated": "2026-11-26",
    "license": "MIT",
    "stars": 1,
    "language": "Kotlin",
@@ -7659,33 +7652,33 @@
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "tvguard-v1.5.3",
+   "version": "kurippu-v1.0",
    "platforms": [
     "android"
    ],
-   "file_size": 11900631,
-   "size_human": "11.3 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/tvguard-v1.5.3",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk",
+   "file_size": 7286087,
+   "size_human": "6.9 MB",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/kurippu-v1.0",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Android-TV-Guard-v1.5.3.apk",
-     "size": 11900631,
-     "size_human": "11.3 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk"
+     "name": "Kurippu-v1.0.apk",
+     "size": 7286087,
+     "size_human": "6.9 MB",
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk"
     }
    ],
    "assets": [
     {
-     "name": "Android-TV-Guard-v1.5.3.apk",
-     "size": 11900631,
-     "size_human": "11.3 MB",
+     "name": "Kurippu-v1.0.apk",
+     "size": 7286087,
+     "size_human": "6.9 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/tvguard-v1.5.3/Android-TV-Guard-v1.5.3.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk"
     }
    ],
-   "updated": "2026-11-25",
+   "updated": "2026-11-26",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
