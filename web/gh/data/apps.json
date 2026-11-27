@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:35:27Z",
+ "generated": "2026-11-27T12:20:33Z",
  "source": "GitHub Releases",
  "count": 195,
  "apps": [
@@ -144,7 +144,7 @@
    ],
    "updated": "2026-11-24",
    "license": "MIT",
-   "stars": 48578,
+   "stars": 48612,
    "language": "JavaScript",
    "icon": "https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/16x16.png"
   },
@@ -245,7 +245,7 @@
    ],
    "updated": "2026-10-13",
    "license": "Apache-2.0",
-   "stars": 5984,
+   "stars": 5992,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/celzero/rethink-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
@@ -790,7 +790,7 @@
    ],
    "updated": "2026-11-23",
    "license": "Apache-2.0",
-   "stars": 14,
+   "stars": 15,
    "language": "Kotlin",
    "icon": "https://raw.githubusercontent.com/irshadm/volta-android/main/app/src/main/res/drawable-nodpi/ic_launcher_foreground.webp"
   },
@@ -7652,33 +7652,33 @@
    "developer": "universalrp2003",
    "repo": "universalrp2003/RP-Android-Apps",
    "repo_url": "https://github.com/universalrp2003/RP-Android-Apps",
-   "version": "kurippu-v1.0",
+   "version": "live-guard-v3.05",
    "platforms": [
     "android"
    ],
-   "file_size": 7286087,
-   "size_human": "6.9 MB",
-   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/kurippu-v1.0",
-   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk",
+   "file_size": 14813623,
+   "size_human": "14.1 MB",
+   "release_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/tag/live-guard-v3.05",
+   "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/live-guard-v3.05/CleanSweep-v3.05.apk",
    "downloads": [
     {
      "platform": "android",
-     "name": "Kurippu-v1.0.apk",
-     "size": 7286087,
-     "size_human": "6.9 MB",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk"
+     "name": "CleanSweep-v3.05.apk",
+     "size": 14813623,
+     "size_human": "14.1 MB",
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/live-guard-v3.05/CleanSweep-v3.05.apk"
     }
    ],
    "assets": [
     {
-     "name": "Kurippu-v1.0.apk",
-     "size": 7286087,
-     "size_human": "6.9 MB",
+     "name": "CleanSweep-v3.05.apk",
+     "size": 14813623,
+     "size_human": "14.1 MB",
      "platform": "android",
-     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/kurippu-v1.0/Kurippu-v1.0.apk"
+     "download_url": "https://github.com/universalrp2003/RP-Android-Apps/releases/download/live-guard-v3.05/CleanSweep-v3.05.apk"
     }
    ],
-   "updated": "2026-11-26",
+   "updated": "2026-11-27",
    "license": "GPL-3.0",
    "stars": 0,
    "language": "Kotlin",
@@ -7994,33 +7994,33 @@
    "developer": "dharmendra3840",
    "repo": "dharmendra3840/takkar-app",
    "repo_url": "https://github.com/dharmendra3840/takkar-app",
-   "version": "v0.11.4",
+   "version": "v0.11.5",
    "platforms": [
     "android"
    ],
-   "file_size": 7318378,
+   "file_size": 7323852,
    "size_human": "7.0 MB",
-   "release_url": "https://github.com/dharmendra3840/takkar-app/releases/tag/v0.11.4",
-   "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.4/Takkar-beta.apk",
+   "release_url": "https://github.com/dharmendra3840/takkar-app/releases/tag/v0.11.5",
+   "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.5/Takkar-beta.apk",
    "downloads": [
     {
      "platform": "android",
      "name": "Takkar-beta.apk",
-     "size": 7318378,
+     "size": 7323852,
      "size_human": "7.0 MB",
-     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.4/Takkar-beta.apk"
+     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.5/Takkar-beta.apk"
     }
    ],
    "assets": [
     {
      "name": "Takkar-beta.apk",
-     "size": 7318378,
+     "size": 7323852,
      "size_human": "7.0 MB",
      "platform": "android",
-     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.4/Takkar-beta.apk"
+     "download_url": "https://github.com/dharmendra3840/takkar-app/releases/download/v0.11.5/Takkar-beta.apk"
     }
    ],
-   "updated": "2026-11-22",
+   "updated": "2026-11-26",
    "license": "",
    "stars": 0,
    "language": "",
